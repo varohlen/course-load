@@ -1,11 +1,8 @@
 ---
 title: Summor - Sammanfattningar av gymnasiekurser i Biologi, Naturkunskap och Miljö- och energikunskap
 ---
-Välkommen till summor! En med sammanfattningar från följande kurser på gymnasienivå
+Välkommen till summor! Här hittar du sammanfattningar, uppgifter och mer i följande ämnen:
 
-- Biologi 1
-- Biologi 2
-- Naturkunskap 1b
-- [[Naturkunskap 1a1]]
-- Naturkunskap 2
+- Biologi 
+- [[content/Naturkunskap/index|Naturkunskap]]
 - Miljö- och energikunskap
