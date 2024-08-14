@@ -103,7 +103,7 @@ Fullständig information om kursens syfte, centrala innehåll och betygskriterie
 
 ### Läromedel och hjälpmedel
 
-![[Pasted image 20240814150415.png]]
+![[Nak1a1Bok.png]]
 
 ---
 
