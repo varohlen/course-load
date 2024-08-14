@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-EN",
+    locale: "en-US",
     baseUrl: "summor.se",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
