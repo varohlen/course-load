@@ -1,5 +1,5 @@
 ---
-title: Naturkunskap 1a1
+title: Introduktion Naturkunskap 1a1
 tags:
   - Naturkunskap
 ---
@@ -21,7 +21,6 @@ tags:
 - Legitimerad lärare i matematik och biologi
 
 >[!SUCCESS] ‎ Pasta, snooza ,brädspel
-
 
 >[!FAILURE] ‎ Syltlök, påfåglar, strumpor
 
@@ -60,13 +59,10 @@ tags:
 
 ---
 
-:::warning
-Vi kan koka ner det till tre stycken arbetsområden
-:::
-
-- Naturvetenskapligt arbetssätt
-- Hållbar utveckling
-- Sexualitet, samtycke och relationer
+>[!INFO] Huvudsakliga arbetsområden 
+>- Naturvetenskapligt arbetssätt
+>- Hållbar utveckling
+>- Sexualitet, samtycke och relationer
 
 
 ---
@@ -75,24 +71,20 @@ Vi kan koka ner det till tre stycken arbetsområden
 
 Förenklat berör betygskriterierna fyra områden och elevens förmåga att redogöra, diskutera och ta ställningstagande inom området
 
-:::info
-- Individ och samhälle
-- Sexualitet och relationer
-- Hållbar utveckling
-- Kritisk granskning
-:::
+>[!TIP] Områden som bedöms
+>- Individ och samhälle
+>- Sexualitet och relationer
+>- Hållbar utveckling
+>- Kritisk granskning
+
 
 Kriterier är sedan utskriva för E-, C-, och A-nivå medan D- och B-nivå syftar till en sammantagen bedömning mellan de olika betygskriterierna.
 
 ---
 
-
 ### Skolverket
 
 Fullständig information om kursens syfte, centrala innehåll och betygskriterier finner ni på [Skolverkets hemsida](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=-996270488%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DNAK%26version%3D3%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3).
-
-![](https://hackmd.io/_uploads/BJxcQ6uXan.png =250x250)
-
 
 ---
 
@@ -100,27 +92,18 @@ Fullständig information om kursens syfte, centrala innehåll och betygskriterie
 
 ---
 
-**EE22**
+## Lektioner
 
 | Dag    | Sal | Tid |
 | -------- | -------- | -------- |
-|Måndag    | T12   | 10:20-11:30    |
-| Torsdag     | ES3    | 12:30-13:20    |
-
-**FT22**
-
-| Dag    | Sal | Tid |
-| -------- | -------- | -------- |
-|Tisdag    | T12   | 13:50-15:00    |
-| Onsdag     | T12    | 10:10-11:20    |
-
+|Tisdag    | T12   | 14:20-15:40    |
+| Fredag    | T12    | 10:20-11:30    |
 
 ---
 
 ### Läromedel och hjälpmedel
 
-![](https://hackmd.io/_uploads/BkGReK7Th.jpg)
-
+![[Pasted image 20240814150415.png]]
 
 ---
 
