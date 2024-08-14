@@ -4,5 +4,5 @@ title: Summor - Sammanfattningar av gymnasiekurser i Biologi, Naturkunskap och M
 Välkommen till summor! Här hittar du sammanfattningar, uppgifter och mer i följande ämnen:
 
 - Biologi 
-- [[content/Naturkunskap/index|Naturkunskap]]
+- [[content/Naturkunskap/index | Naturkunskap]]
 - Miljö- och energikunskap
