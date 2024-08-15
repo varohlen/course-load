@@ -25,7 +25,7 @@ PageTitle.css = `
 .Logo {
   max-height: 120px;
   min-height: 50px;
-  max-width: 212px;
+  max-width: 120px;
   min-width: 50px;
   margin: 0;
 }
