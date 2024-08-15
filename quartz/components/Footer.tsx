@@ -16,6 +16,10 @@ export default ((opts?: Options) => {
         <p>
         <a href="mailto:viktor@summor.se">viktor@summor.se</a>
         </p>
+        <p>
+          {i18n(cfg.locale).components.footer.createdWith}{" "}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+        </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
