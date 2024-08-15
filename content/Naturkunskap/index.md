@@ -3,4 +3,4 @@ title: Naturkunskap
 description: 
 ---
 
-Här hittar du sammanfattningar i Naturkunskapskurser på gymnasienivå
+Här hittar du sammanfattningar i naturkunskapskurser på gymnasienivå
