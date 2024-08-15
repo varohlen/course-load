@@ -45,5 +45,5 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  LinksHeader
+  LinksHeader,
 }
