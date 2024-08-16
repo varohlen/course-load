@@ -1,8 +1,5 @@
 
-## Vad är naturvetenskap?
-**Naturvetenskapligt arbetssätt**
-
-> [!NOTE] Egen inläsning s.7-15
+> [!SUMMARY] Egen inläsning s.7-15
 
 ---
 
@@ -109,25 +106,16 @@ För att bibehålla en systematisk och kvalitativ forskning existerar *vetenskap
 ![[paolom.jpg|500]]
 
 
->[!FAQ] ‎     
->- Vem är mannen? 
->- Vad har han med vetenskapsetik att göra?
+>[!FAQ] ‎Vem är mannen? Vad har man med vetenskapsetik att göra?
 
 ---
 
-:::info
-Egen läsning (s.12)
-:::
+>[!SUMMARY] Egen läsning (s.12)
 
-![](https://hackmd.io/_uploads/HkXcQRFT2.png =600x800)
+![[ignaz.png]]
 
 ---
 
-:::info
-Testa dig själv (s.14)
-:::
-
-![](https://hackmd.io/_uploads/B1lmN0Y63.png =400x350)
 
 
 
