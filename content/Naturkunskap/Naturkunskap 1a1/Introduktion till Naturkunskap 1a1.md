@@ -15,14 +15,15 @@ tags:
 
 ---
 
-### Viktor Arohlén
 
-- Bor i Mölnlycke med fru och katt
-- Legitimerad lärare i matematik och biologi
 
->[!SUCCESS] ‎ Pasta, snooza ,brädspel
-
->[!FAILURE] ‎ Syltlök, påfåglar, strumpor
+>[!INFO] Viktor Arohlén
+>- Bor i Öjersjö med fru och katt
+>- Legitimerad lärare i matematik och biologi
+>
+>>[!SUCCESS] ‎ Pasta, snooza ,brädspel
+>
+>>[!FAILURE] ‎ Syltlök, påfåglar, strumpor
 
 ---
 
