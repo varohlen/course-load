@@ -1,13 +1,8 @@
----
-#type: slide
----
 
 ## Vad är naturvetenskap?
 **Naturvetenskapligt arbetssätt**
 
-:::info
-Egen inläsning: s.7-15
-:::
+> [!NOTE] Egen inläsning s.7-15
 
 ---
 
@@ -33,36 +28,24 @@ Egen inläsning: s.7-15
 
 ### Undersökningar
 
-```flow
-st=>start: Frågeställning
-e=>end: Hypotes
-op=>operation: Hypotes
-op2=>operation: Sant eller falskt?
-st->op->op2
-```
-
 ```mermaid
 stateDiagram
-    f1: Hur påverkar mängden ljus tillväxten hos en lök under en viss tidsperiod?
-    f2: Hur påverkar ljuset en växt?
-    h1: Om mängden ljus ökar kommer även tillväxten hos en lök öka.
-    h2: Ljuset påverkar växter
-    f1 --> h1
-    f2 --> h2
+	s: Frågeställning
+	e: Hypotes
+	f: Sant eller falsk?
+	s --> e
+	e --> f
 ```
+
 ---
 
-:::info
-**Frågeställning**: Formulerad som en fråga och anger syfte för undersökning.
+>[!FAQ] Frågeställning
+>Formulerad som en fråga och anger syfte för undersökning
+>- *Blir resultaten i skolan bättre om man studerar mer?*
 
-*Blir resultaten i skolan bättre om man studerar mer?*
-:::
-
-:::warning
-**Hypotes**: Formulerad som ett påstående och förutsäger resultatet av en händelse. Måste kunna vara sant eller falskt.
-
-*Skolresultatet blir bättre om man studerar mer*
-:::
+>[!TIP] Hypotes
+>Formulerad som ett påstående och förutsäger resultatet av en händelse. Måste kunna vara sant eller falskt.
+>- *Skolresultatet blir bättre om man studerar mer.*
 
 ---
 
@@ -72,7 +55,7 @@ stateDiagram
 
 ---
 
-![](https://hackmd.io/_uploads/rJ4pR6Y6n.png =800x600)
+![[vadarvetenskap.png]]
 
 ---
 
@@ -80,9 +63,8 @@ stateDiagram
 
 En naturvetenskaplig hypotes måste vara *prövbar*.
 
-:::danger
-- Ge ett exempel på en icke-prövbar hypotes
-:::
+>[!FAQ] Ge ett exempel på en icke-prövbar hypotes
+
 
 ---
 
@@ -109,7 +91,7 @@ Vi kan däremot observera dem och samla in data genom dessa observationer.
 
 ---
 
-![](https://hackmd.io/_uploads/BkbZ-CK62.png =700x350)
+![[abisko.png]]
 *Graf visar observerade temperaturförändringar och simulerade temperaturförändringar.*
 
 ---
@@ -124,11 +106,12 @@ För att bibehålla en systematisk och kvalitativ forskning existerar *vetenskap
 
 ---
 
-![](https://hackmd.io/_uploads/ByzNXRt62.png =500x350)
+![[paolom.jpg|500]]
 
-:::danger
-Vem är mannen? Vad har han med vetenskapsetik att göra?
-:::
+
+>[!FAQ] ‎     
+>- Vem är mannen? 
+>- Vad har han med vetenskapsetik att göra?
 
 ---
 
