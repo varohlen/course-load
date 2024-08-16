@@ -1,5 +1,7 @@
 ---
-title: Summor - Sammanfattningar av gymnasiekurser i Biologi, Naturkunskap och Miljö- och energikunskap
+title: Summor
+tags:
+  - noexp
 ---
 Välkommen till summor! Här hittar du sammanfattningar, uppgifter och mer i följande ämnen:
 

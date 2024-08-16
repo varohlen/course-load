@@ -182,7 +182,9 @@ a {
     }
 
     & .sidebar.left {
-      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      width: $leftsidePanelWidth;
+      left: calc((100vw - $pageWidth - $leftsidePanelWidth - $sidePanelWidth) / 2);
+
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
@@ -190,12 +192,12 @@ a {
     }
 
     & .sidebar.right {
-      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      right: calc((100vw - $pageWidth - $leftsidePanelWidth - $sidePanelWidth) / 2);
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
           flex: 1;
-          min-width: 140px;
+          min-width: 300px;
         }
       }
     }

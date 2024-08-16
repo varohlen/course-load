@@ -22,12 +22,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-      folderClickBehavior: "link", 
-      filterFn: (node) => node.name !== "Templates",
-    })),
+   
   ],
   right: [
+    Component.NotFor({ tags: ["noexp"]}, (Component.Explorer({
+      folderClickBehavior: "link", 
+      filterFn: (node) => {
+        // exclude files with the tag "explorerexclude"
+        return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
+      },
+    }))),
   ],
 }
 
@@ -43,11 +47,15 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-      folderClickBehavior: "link", 
-      filterFn: (node) => node.name !== "Templates",
-    })),
+ 
   ],
   right: [
+    Component.NotFor({ tags: ["noexp"]}, (Component.Explorer({
+      folderClickBehavior: "link", 
+      filterFn: (node) => {
+        // exclude files with the tag "explorerexclude"
+        return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
+      },
+    }))),
   ],
 }

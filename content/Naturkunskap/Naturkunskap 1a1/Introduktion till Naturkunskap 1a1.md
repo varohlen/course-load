@@ -2,6 +2,7 @@
 title: Introduktion Naturkunskap 1a1
 tags:
   - Naturkunskap
+  - explorerexclude
 ---
 
 

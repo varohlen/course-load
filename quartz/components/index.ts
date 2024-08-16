@@ -22,6 +22,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import LinksHeader from "./LinksHeader"
 import Header from "./Header"
+import NotFor from "./NotFor"
 
 export {
   ArticleTitle,
@@ -48,4 +49,5 @@ export {
   Comments,
   LinksHeader,
   Header,
+  NotFor,
 }
