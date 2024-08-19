@@ -1,8 +1,6 @@
 ---
 title: Introduktion Naturkunskap 1a1
-tags:
-  - Naturkunskap
-  - explorerexclude
+tags: Nak1a1
 ---
 
 

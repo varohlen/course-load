@@ -1,3 +1,6 @@
+---
+tags: Nak1a1
+---
 
 **Naturvetenskapligt arbetssätt**
 

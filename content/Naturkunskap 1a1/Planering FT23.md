@@ -1,6 +1,6 @@
-
 ---
 title: Planering FT23
+tags: Nak1a1
 ---
 
 ### Lektioner
@@ -22,7 +22,7 @@ title: Planering FT23
 
 |Dag|Innehåll|Sidor|
 |---|---|---|
-|Tisdag|[[Vad är naturkunskap?]]|
+|Tisdag|[[1 - Vad är naturvetenskap?]]|
 
 **Vecka 35**
 | Dag    | Innehåll | Sidor |

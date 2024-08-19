@@ -170,7 +170,7 @@ a {
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
+      padding: 0 1rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
@@ -182,9 +182,7 @@ a {
     }
 
     & .sidebar.left {
-      width: $leftsidePanelWidth;
-      left: calc((100vw - $pageWidth - $leftsidePanelWidth - $sidePanelWidth) / 2);
-
+      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
@@ -192,12 +190,12 @@ a {
     }
 
     & .sidebar.right {
-      right: calc((100vw - $pageWidth - $leftsidePanelWidth - $sidePanelWidth) / 2);
+      right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
           flex: 1;
-          min-width: 300px;
+          min-width: 140px;
         }
       }
     }

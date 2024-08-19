@@ -1,7 +1,6 @@
 ---
 title: Introduktion Biologi 1
-tags:
-  - Biologi
+tags: Bio1
 ---
 # BIOBIO01
 

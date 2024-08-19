@@ -4,7 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.LinksHeader()],
+  header: [ (Component.LinksHeader())],
   afterBody: [],
   footer: Component.Footer(),
 }
@@ -14,24 +14,41 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    //Component.ContentMeta(),
+    //Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.DesktopOnly(Component.OnlyFor({ tags: ["Bio1"]}, (Component.Explorer({
+      folderDefaultState: "open",
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["biologi-2", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    
+
+
+    })))),
+    Component.DesktopOnly(Component.OnlyFor({ tags: ["Nak1a1"]}, (Component.Explorer({
+      folderDefaultState: "open",
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["biologi-2", "biologi-1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    
+
+
+    })))),
+    
    
   ],
   right: [
-    Component.NotFor({ tags: ["noexp"]}, (Component.Explorer({
-      folderClickBehavior: "link", 
-      filterFn: (node) => {
-        // exclude files with the tag "explorerexclude"
-        return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
-      },
-    }))),
+
   ],
 }
 
@@ -40,22 +57,40 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(), 
-    Component.ContentMeta()
+    //Component.ContentMeta()
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.DesktopOnly(Component.OnlyFor({ tags: ["Bio1"]}, (Component.Explorer({
+      folderDefaultState: "open",
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["biologi-2", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    
+
+
+    })))),
+    Component.DesktopOnly(Component.OnlyFor({ tags: ["Nak1a1"]}, (Component.Explorer({
+      folderDefaultState: "open",
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["biologi-2", "biologi-1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    
+
+
+    })))),
+    
+   
  
   ],
   right: [
-    Component.NotFor({ tags: ["noexp"]}, (Component.Explorer({
-      folderClickBehavior: "link", 
-      filterFn: (node) => {
-        // exclude files with the tag "explorerexclude"
-        return node.file?.frontmatter?.tags?.includes("explorerexclude") !== true
-      },
-    }))),
+
   ],
 }

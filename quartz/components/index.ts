@@ -23,6 +23,7 @@ import Comments from "./Comments"
 import LinksHeader from "./LinksHeader"
 import Header from "./Header"
 import NotFor from "./NotFor"
+import OnlyFor from "./OnlyFor"
 
 export {
   ArticleTitle,
@@ -50,4 +51,6 @@ export {
   LinksHeader,
   Header,
   NotFor,
+  OnlyFor,
+
 }

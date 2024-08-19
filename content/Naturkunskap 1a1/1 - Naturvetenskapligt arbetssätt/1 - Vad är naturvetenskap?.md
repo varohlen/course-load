@@ -1,3 +1,6 @@
+---
+tags: Nak1a1
+---
 
 > [!SUMMARY] Egen inläsning s.7-15
 
