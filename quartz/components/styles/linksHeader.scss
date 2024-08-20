@@ -1,9 +1,6 @@
 @use "../../styles/variables.scss" as *;
 
-header {
-  display: block;
-  margin-top: 1rem;
-}
+
 
 #links-header {
   font-size: 1.2em;
@@ -27,12 +24,7 @@ header {
   }
 }
 
-@media screen and (max-width: $mobileBreakpoint) {
-  #links-header {
-    overflow: scroll;
-    white-space: nowrap;
-  }
-}
+
 
 
 

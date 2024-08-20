@@ -457,7 +457,7 @@ p {
 th {
   text-align: left;
   padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
+  border-bottom: 2px solid var(--dark);
 }
 
 td {
@@ -465,11 +465,19 @@ td {
 }
 
 tr {
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--gray);
   &:last-child {
     border-bottom: none;
   }
 }
+th, td {
+  border-left: 1px solid var(--lightgray); /* Left border for each cell */
+}
+
+th:first-child, td:first-child {
+  border-left: none; /* Remove the left border for the first column */
+}
+
 
 img {
   max-width: 100%;

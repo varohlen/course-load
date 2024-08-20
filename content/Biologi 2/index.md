@@ -1,6 +1,7 @@
 ---
 title: Biologi 2
 description: 
-tags: []
+tags:
+  - Bio2
 ---
 
