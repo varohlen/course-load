@@ -110,6 +110,7 @@ Fullständig information om kursens syfte, centrala innehåll och betygskriterie
 | Dag    | Sal | Tid         |
 | ------ | --- | ----------- |
 | Fredag | E3  | 12:20-13.30 |
+
 Även möjlighet til ytterligare lektion på Tisdagar 14.50-15.30 i E4 vissa veckor.
 
 ---
