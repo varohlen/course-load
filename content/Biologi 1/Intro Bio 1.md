@@ -2,23 +2,22 @@
 title: Introduktion Biologi 1
 tags: Bio1
 ---
-# BIOBIO01
-
-**Biologi 1** 
-
-Naturvetenskapligt ämen på gymnasienivå
+# Biologi 1
 
 ---
 
-### Viktor Arohlén
-- Bor i Mölnlycke med fru och katt
-- Legitimerad lärare i matematik och biologi
-    :::success
-    :thumbsup: Pasta, snooza, brädspel 
-    :::
-    :::danger
-    :thumbsdown: Syltlök, påfåglar, strumpor
-    :::
+> [!NOTE] Biologi
+> Ämnet biologi är de naturvetenskapliga studierna av liv på jorden.
+
+---
+
+>[!INFO] Viktor Arohlén
+>- Bor i Öjersjö med fru och katt
+>- Legitimerad lärare i matematik och biologi
+>
+>>[!SUCCESS] ‎ Pasta, snooza ,brädspel
+>
+>>[!FAILURE] ‎ Syltlök, påfåglar, strumpor
 
 ---
 
@@ -32,13 +31,11 @@ Naturvetenskapligt ämen på gymnasienivå
 
 ### Centralt innehåll
 
-Fyra huvudområden
-:::info
-- Ekologi
-- Genetik
-- Evolution
-- Biologins karaktär och arbetsmetoder
-:::
+>[!INFO] Huvudsakliga arbetsområden 
+>- Ekologi
+>- Genetik
+>- Evollution
+>- Biologins karaktär och arbetsmetoder
 
 ---
 
@@ -89,13 +86,12 @@ Fyra huvudområden
 
 Övergripande bedöms följande förmågor
 
-:::info
-- Metoder, samband och modeller
-- Analysera och formulera hypoteser
-- Biologins betydelse
-- Naturvetenskapligt språk
-- Bedöma egen förmåga
-:::
+>[!TIP] Förmågor
+>- Metoder, samband och modeller
+>- Analysera och formulera hypoteser
+>- Biologins betydelse
+>- Naturvetenskapligt språk
+>- Bedöma egen förmåga
 
 Kriterier är sedan utskriva för E-, C-, och A-nivå medan D- och B-nivå syftar till en sammantagen bedömning mellan de olika betygskriterierna.
 
@@ -111,20 +107,17 @@ Fullständig information om kursens syfte, centrala innehåll och betygskriterie
 
 ---
 
-| Dag    | Sal | Tid |
-| -------- | -------- | -------- |
-|Tisdag    | ES2   | 12.00-13.10    |
-| Fredag     | E4    | 13.50-15.00    |
-
-:::warning
-Tisdagar möjlighet till laboration.
-:::
+| Dag    | Sal | Tid         |
+| ------ | --- | ----------- |
+| Fredag | E3  | 12:20-13.30 |
+Även möjlighet til ytterligare lektion på Tisdagar 14.50-15.30 i E4 vissa veckor.
 
 ---
 
 ### Läromedel och hjälpmedel
 
-![](https://hackmd.io/_uploads/HkbT7x9Th.png)
+![[bio1.png]]
+
 
 ---
 
@@ -147,11 +140,10 @@ Tisdagar möjlighet till laboration.
 
 ### Introduktion till Biologi
 
-:::info
-- Biologi från grekiskans *bios* (liv) och *logi* (läran)
-    - *"Läran om livet"*
-- Naturvetenskapligt ämne med en bredd och ibland tvärvetenskapliga egenskaper
-:::
+>[!INFO]
+>- Biologi från grekiskans *bios* (liv) och *logi* (läran)
+  >  - *"Läran om livet"*
+>- Naturvetenskapligt ämne med en bredd och ibland tvärvetenskapliga egenskaper
 
 ---
 
@@ -181,27 +173,13 @@ Tisdagar möjlighet till laboration.
 
 ---
 
-```flow
-st=>start: Frågeställning
-e=>end: Hypotes
-op=>operation: Hypotes
-op2=>operation: Sant eller falskt?
-st->op->op2
-```
+>[!FAQ] Frågeställning
+>Formulerad som en fråga och anger syfte för undersökning
+>- *Blir resultaten i skolan bättre om man studerar mer?*
 
----
-
-:::info
-**Frågeställning**: Formulerad som en fråga och anger syfte för undersökning.
-
-*Blir resultaten i skolan bättre om man studerar mer?*
-:::
-
-:::warning
-**Hypotes**: Formulerad som ett påstående och förutsäger resultatet av en händelse. Måste kunna vara sant eller falskt.
-
-*Skolresultatet blir bättre om man studerar mer*
-:::
+>[!TIP] Hypotes
+>Formulerad som ett påstående och förutsäger resultatet av en händelse. Måste kunna vara sant eller falskt.
+>- *Skolresultatet blir bättre om man studerar mer.*
 
 ---
 
@@ -211,20 +189,22 @@ st->op->op2
 
 ---
 
-#### Naturvetenskapens begränsningar
 
-En naturvetenskaplig hypotes måste vara *prövbar*.
-
-:::danger
-- Ge ett exempel på en icke-prövbar hypotes
-:::
+![[vadarvetenskap.png]]
 
 ---
 
-:::warning
+### Naturvetenskapens begränsningar
+
+En naturvetenskaplig hypotes måste vara *prövbar*.
+
+>[!FAQ] Ge ett exempel på en icke-prövbar hypotes
+
+
+---
+
 - Gud finns. / Gud finns inte.
 - Det fler än ett universum. / Det finns bara ett universum.
-:::
 
 ---
 
@@ -234,7 +214,7 @@ Exempelvis kan vi inte prata om huruvida en förändring är *bra* eller *dålig
 
 ---
 
-#### Observationer och simuleringar
+### Observationer och simuleringar
 
 Alla hypoteser kan inte studeras genom experiment. Då kan vi nyttja *observationer* eller *simuleringar* istället.
 
@@ -246,12 +226,12 @@ Vi kan däremot observera dem och samla in data genom dessa observationer.
 
 ---
 
-![](https://hackmd.io/_uploads/BkbZ-CK62.png =700x350)
+![[abisko.png]]
 *Graf visar observerade temperaturförändringar och simulerade temperaturförändringar.*
 
 ---
 
-#### Vetenskap och etik
+### Vetenskap och etik
 
 För att bibehålla en systematisk och kvalitativ forskning existerar *vetenskapsråd* och *etiska kommittéer*.
 
@@ -261,10 +241,9 @@ För att bibehålla en systematisk och kvalitativ forskning existerar *vetenskap
 
 ---
 
-![](https://hackmd.io/_uploads/ByzNXRt62.png =500x350)
+![[paolom.jpg|500]]
 
-:::danger
-Vem är mannen? Vad har han med vetenskapsetik att göra?
-:::
+
+>[!FAQ] ‎Vem är mannen? Vad har man med vetenskapsetik att göra?
 
 ---
