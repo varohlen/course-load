@@ -126,7 +126,7 @@ Fullständig information om kursens syfte, centrala innehåll och betygskriterie
 
 ---
 
-![](https://hackmd.io/_uploads/ryRkNpeTh.png =600x300)
+![](https://hackmd.io/_uploads/ryRkNpeTh.png )
 
 ---
 
@@ -141,7 +141,7 @@ Fullständig information om kursens syfte, centrala innehåll och betygskriterie
 
 ### Introduktion till Biologi
 
->[!INFO]
+>[!INFO] Biologi
 >- Biologi från grekiskans *bios* (liv) och *logi* (läran)
   >  - *"Läran om livet"*
 >- Naturvetenskapligt ämne med en bredd och ibland tvärvetenskapliga egenskaper
@@ -154,7 +154,7 @@ Fullständig information om kursens syfte, centrala innehåll och betygskriterie
 - Föregås av *naturfilosofin* som studerades av antiken Grekland, Mesoptamien, Indien och Kina
     - Aristoteles
 
-![](https://hackmd.io/_uploads/BJXzWNoTn.png =200x260)
+![](https://hackmd.io/_uploads/BJXzWNoTn.png )
 
 ---
 
@@ -164,7 +164,7 @@ Fullständig information om kursens syfte, centrala innehåll och betygskriterie
     - Jean-Bapiste de Lamarck
     - Gregor Mendel
     
-![](https://hackmd.io/_uploads/SyK1m4iph.png =410x210)
+![](https://hackmd.io/_uploads/SyK1m4iph.png)
 
 ---
 
