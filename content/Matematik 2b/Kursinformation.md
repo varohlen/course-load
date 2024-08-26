@@ -1,3 +1,7 @@
+---
+tags:
+  - Mat2b
+---
 
 >[!hint] Lärobok
 >Denna kurssida utgår från Origo's Matematik 2b
@@ -59,17 +63,7 @@ Matematik 2b är en fortsättning från kursen Matematik 1b och innehållet kän
 >$$ 2x^2 + 3x + 10 = 25 $$
 
 >[!Andragradsfunktioner]
->Repetera funktionsbegreppet och introducera andragradsfunktioner.
->```mermaid
->xychart-beta
->title "Linjär funktion"
->line [2,8]
->```
->```mermaid
->xychart-beta
->title "Exponentialfunktion"
->line[2,4,8,16]
->```
+
 
 
 
