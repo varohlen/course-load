@@ -39,6 +39,7 @@ Matematik 2b är en fortsättning från kursen Matematik 1b och innehållet kän
 >Repeteras från tidigare kurs och är av relevans för övriga områden i kursen.
 >Följande former på räta linjens ekvation behandlas:
 > $$ y=kx+m $$
+> 
 > $$ ax+by+c = 0 $$
 
 >[!EXAMPLE] Ekvationssystem
@@ -54,25 +55,37 @@ Matematik 2b är en fortsättning från kursen Matematik 1b och innehållet kän
 > 
 > Kvadrerings- och konjugatregler
 > $$ (a+b)^2 = a^2 + 2ab + b^2$$
+> 
 > $$ (a+b)(a-b) = a^2 - b^2 $$
 
 >[!EXAMPLE] Andragradsekvationer
 >Lösa ekvationer av "andra graden".  Exempelvis:
 >
 >$$ 6x^2 = 216 $$
+>
 >$$ 2x^2 + 3x + 10 = 25 $$
 
->[!Andragradsfunktioner]
+>[!EXAMPLE] Andragradsfunktioner
+>| Linjär funktion                                                    | Exponentialfunktion                                         | Andragradsfunktioner                                                |
+>| ------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------- |
+>| ![[Screenshot 2024-08-22 at 16.32.02.png\|200]] $$ f(x)= kx + m $$ | ![[Pasted image 20240822163440.png\|200]] $$ f(x) = Ca^x $$ | ![[Pasted image 20240826094627.png\|200]] $$ f(x)= ax^2 + bx + c $$ |
+>|                                                                    |                                                             |                                                                     |
 
+>[!EXAMPLE] Geometri
+>  Behandlar matematisk bevisföring och flertalet klassiska geometriska satser. Geometriska begrepp, koordinatgeometri och bevis för satser gällande trianglar och cirklar
+>  
+> Exempel:
+>  - Pythagoras sats
+>  - Topptriangelsatsen
+>  - Bisektrissatsen
+>  - Kordasatsen
+>  - Randvinkelsatsen
 
+>[!EXAMPLE] Logaritmer
+>Logaritmer införs för att kuna lösa exponential- och potenseekvationer. Logaritmlagar och tillämpningar av logaritmer.
 
-
-| Linjär funktion                            | Exponentialfunktion                  | Andragradsfunktioner |
-| ------------------------------------------ | ------------------------------------ | -------------------- |
-| ![[Screenshot 2024-08-22 at 16.32.02.png]] | ![[Pasted image 20240822163440.png]] |                      |
-|                                            |                                      |                      |
-
-
+>[!EXAMPLE] Statistik
+>Repetition av föregående kurs och mer fokus på olika typer av läges- och spridningsmått samt olika typer av regressionsmodeller.
 
 
 
