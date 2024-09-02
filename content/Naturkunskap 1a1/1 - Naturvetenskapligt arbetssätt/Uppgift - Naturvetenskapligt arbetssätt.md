@@ -1,3 +1,7 @@
+---
+tags:
+  - Nak1a1
+---
 
 
 Svara på följande uppgifter för att repetera innehållet i avsnittet.

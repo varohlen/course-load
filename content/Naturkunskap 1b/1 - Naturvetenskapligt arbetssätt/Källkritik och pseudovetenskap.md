@@ -2,7 +2,6 @@
 tags:
   - Nak1b
 ---
-
 **Naturvetenskapligt arbetssätt**
 
 I det naturvetenskapliga arbetssättet och förhållningssättet ingår källkritik. Vi måste kunna avgöra om innehållet är av naturvetenskaplig karaktär eller ej.
