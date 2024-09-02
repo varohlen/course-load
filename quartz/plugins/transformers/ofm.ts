@@ -700,6 +700,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
           });
           `,
           loadTime: "afterDOMReady",
+          
           moduleType: "module",
           contentType: "inline",
         })

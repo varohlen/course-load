@@ -126,7 +126,6 @@ Fokus på det **ekologiska** perspektivet, och utgå från material producerat a
 
 [Ekologiska fotavtryck](https://www.wwf.se/klimat/ekologiska-fotavtryck/)
 
-![](https://hackmd.io/_uploads/HyvhTYm6n.png)
 
 >[!IFAQ] Uppgift
 >Sätt er in i materialet och förberedd er att lyfta upp en aspekt i slutet av lektionen
