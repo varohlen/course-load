@@ -1,6 +1,9 @@
-**Naturvetenskapligt arbetssätt**
+---
+tags:
+  - Nak1b
+---
 
-> [!SUMMARY] Egen inläsning s.27-30
+**Naturvetenskapligt arbetssätt**
 
 I det naturvetenskapliga arbetssättet och förhållningssättet ingår källkritik. Vi måste kunna avgöra om innehållet är av naturvetenskaplig karaktär eller ej.
 
@@ -71,6 +74,7 @@ Exempel på **pseudovetenskap**
 - Parapsykologi
 - Dianetik
 - Frenologi
+- Intelligent design
 
 .. och många fler!
 
