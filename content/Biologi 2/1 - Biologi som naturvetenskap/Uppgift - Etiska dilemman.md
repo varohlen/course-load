@@ -1,0 +1,84 @@
+---
+tags:
+  - Bio2
+---
+
+Ni ska nu ta ställning till olika etiska dilemman för olika typer av forskningsfrågor av naturvetenskaplig karaktär.
+
+Ni utgör tillsammans en prövningsnämnd för följande frågor och avgör om forskning ska få genomföras eller inte.
+
+För att hjälpa er är här frågor ni kan ställa er gällande den föreslagna forskningen.
+
+- Kan forskningen lösa praktiska problem i samhället?
+- Kan forskningen påverka vår syn på ett fenomen och hur världen fungerar?
+- Kommer forskningen gynna människor?
+- Kommer forskningen gynna världen i stort?
+- Bidrar forskningen till hållbar utveckling?
+
+- Kan forskningen orsaka lidande hos djur eller människor?
+- Kan forskningen missgynna grupper av människor?
+- Kan forskningen leda till ett ohållbart samhälle?
+- Innebär forskningen ett känsligt område som kan uppröra människor?
+- Hur påverkar forskningen övriga arter?
+
+---
+
+## Fall 1: Forskning på genmodifierat ris
+
+Forskningen syftar till att undersöka om ris kan genmanipuleras (förändra arvsmassan) så att det berikas med Vitamin A. Undersökningen kommer att genomföras på risplantor som genmanipuleras och odlas.
+
+Forskningen vill få bukt på Vitamin A-bristen som en stor del av världens befolkning lider av genom att med bioteknik öka mängderna Vitamin A i en av de vanligaste livsmedlena.
+
+![[ris.png]]
+
+---
+
+## Fall 2:  Läkemedel för håravfall
+
+En grupp forskare vill testa ett nytt läkemedel för håravfall. De vill genomföra forskningen på apor (krabbmakak). De har tidigare fått godkänt för sin forskning på cellodlingar och påvisat positiva resultat gällande håråterväxt.
+
+I slutändan vill forskargruppen hjälpa människor som lider av håravfall av både medicinska och genetiska anledningar, och de menar på att håravfall lider till stort pyskologiskt lidande hos en stor del av befolkningen.
+
+![[krabbmakak.png]]
+*En krabbmakak. Forskning på apor görs endast på Karolinska Institutet i Stockholm.*
+
+---
+
+## Fall 3: Brottslingars blodgrupp
+
+En grupp forskare vill kartlägga vilka blodgrupper dömda brottslingar har. De vill testa blodet hos både personer som för tillfället avtjänar ett straff och som redan avtjänat det.
+
+Målet med forskningen är att kartlägga samband mellan olika blodgrupper och brott för att bedöma om det går att förutspå vilken typ av människor som begår olika brott.
+
+De har tidigare genomfört liknande försök på djur, där de har mätt aggressiva tendenser hos råttor och jämfört det med deras blodgrupp.
+
+![[Pasted image 20240903160147.png]]
+
+---
+
+## Fall 4:  Syntetiska aminosyror
+
+Forskare vill studera möjligheten att tillverka essentiella aminosyror (de aminosyror kroppen inte själv kan tillverka). Aminosyror är livsnödvändiga för människan och andra organismer för att bygga upp proteiner.
+
+Syftet är att kunna erbjuda billigare foder till boskap som kan tillföras dessa syntetiska aminosyror för att bibehålla näringsvärdet. De ser även möjligheten att de skulle kunna användas som kosttillskott hos människor.
+
+I förlängningen vill de därför även testa dessa syntetiska aminosyror på både djur och människor för att säkerhetsställa deras effekt.
+
+---
+
+## Fall 5: Biologiskt nedbrytbar GPS-tracker
+
+En grupp forskare vill undersöka möjligheten att tillverka en typ av GPS-spårare som kan brytas ned av matspjälkningen. Forskningen är tvådelad, de vill dels undersöka om de kan tillverka den så att den är möjlig att gömma i den föda eller dryck någon konsumerar. De vill sedan också undersöka om den går att göra biologisk nedbrytbar och således inte skadar kroppen.
+
+Syftet är att kunna spåra personer genom deras intag av föda och dryck, men också att begränsa spårningen till tiden det tar för kroppen att bryta ned produkten.
+
+---
+
+## Fall 6: Skärmtids påverkan hos småbarn
+
+De finns inte tillräckligt med forskning på hur skärmtid påverkar barn under 2 år. En grupp forskare vill därför undersöka effekterna av en ökad mängd skärmtid hos barn under 2 år.
+
+De vill i sin studie undersöka både barnen fysiska- och psykiska mående efter ha använt olika typer av skärmar. De vill inkludera både surfplattor, mobiltelefoner och TV.
+
+---
+
