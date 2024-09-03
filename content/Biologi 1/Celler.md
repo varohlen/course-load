@@ -1,0 +1,80 @@
+---
+tags:
+  - Bio1
+---
+
+---
+
+Alla levande organismer består av **celler**. Det är den minsta strukturella och funktionella enheten som bygger upp liv.
+
+Det minstas livet vi känner till består endast av en cell.
+
+Celler varierar stort till storlek, utseende och funktion.
+
+---
+
+![](https://hackmd.io/_uploads/HkkDshmRh.png =600x400)
+*Enkel modell av en djurcell*
+
+---
+
+![](https://hackmd.io/_uploads/B1_sinQAn.png)
+*Mer avancerad modell av en djurcell*
+
+---
+
+För att verkliga djupdyka skapades en extremt detaljerad modell av en cell som ett konstverk av Evan Ingersoll och Gael McGill.
+
+[- 3D-rendering av en eukaryot cell](https://cdna.artstation.com/p/assets/images/images/022/299/390/large/gael-mcgill-cellularlandscape-digizyme.jpg?1574883833)
+[- Interaktiv version](https://www.digizyme.com/cst_landscapes.html)
+
+---
+
+Oavsett detaljnivå är det fortfarande *modeller* av en cell och hur den fungerar.
+
+---
+
+## Olika typer av celler
+
+Det finns två grundläggande typer av celler, som också innebär en kategorisering av olika organismer.
+
+- **Eukaryota celler**, celler med "äkta" kärna
+- **Prokaryota celler**, celler "utan" kärna
+
+---
+
+**Gemensamt**
+
+:::info
+- Cellmembran
+- DNA
+- Cellandning
+:::
+
+---
+
+**Prokaryota celler**
+
+- Prokaryota celler saknar avgränsning runt sin cellkärna.
+- DNA organiserat i *plasmider* (ringar)
+- Encelliga organismer
+- Bakterier och arkéer
+- (Cellvägg)
+- Färre *organeller* än eukaryota celler
+
+---
+
+![](https://hackmd.io/_uploads/rJHcN6X0n.png)
+*Prokaryot cell (bakterie)*.
+
+---
+
+**Eukaryota celler**
+
+- Cellkärna
+- Flercelliga och encelliga organismer
+- Fler och stor variation på *organeller*
+- Djur, växter och svampar
+- Stor skillnad (djur- och växtcell ex.)
+
+*Tidigare bilder är alla eukaryota celler*.

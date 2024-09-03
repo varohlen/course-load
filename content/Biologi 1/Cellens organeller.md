@@ -1,0 +1,106 @@
+---
+tags:
+  - Bio1
+---
+
+
+**Övning**
+Identifiera strukturerna och dess funktioner i dessa modeller av en eukaryot cell. Vilka av dessa strukturer finns också i en prokaryot cell?
+
+Använd valfria källor!
+
+![](https://hackmd.io/_uploads/rJF15iE0h.png)
+![](https://hackmd.io/_uploads/S1xg9s403.png)
+
+---
+
+## Mer om eukaryota cellens organeller
+
+### Cellmembran
+
+Cellmembranet avgränsar cellen mot sin omgivning och tydliggör var cellen slutar och börjar. Detta skapar en inre- och en yttre miljö som utnyttjas av flertalet biologiska mekanismer.
+
+---
+
+![](https://hackmd.io/_uploads/r15f0jNRn.png)
+*3D-rendering av cellmembranet*
+
+---
+
+Cellmembranet byggs upp av fosfolipider.
+
+![](https://hackmd.io/_uploads/SJCkg3VRn.png)
+
+Dessa har ett *hydrofilt* huvud ("vattenälskande") och en *hydrofob* svans ("vattenhatande"). Dessa bygger upp ett dubbelt lager och skapar således en kemisk barriär mellan *intracellulärt* och *extracellulärt*.
+
+---
+
+### Cytoplasma
+
+Miljön innanför cellmembranet kallas för *cytoplasma* och består av *organeller*, *cytosol* ("vätskan" inuti cellen), och *cytoskelettet*(ett nätverk av proteinfibrer som bygger upp cellens form och struktur).
+
+---
+
+### Mitokondrier
+
+*Mitokondrien* återfinns i nästan alla eukaryota celler och har en viktig roll i *cellandningen*.
+
+De är ovala till formen och byggs upp av två *lipidmembran*, ett yttre slätt och ett inre veckat. Mitokondrier har dessutom både eget DNA(MtDNA) och egna ribosomer.
+
+---
+
+![](https://hackmd.io/_uploads/SkvSf3N03.png)
+*3D-rendering av en mitkondrie*.
+
+---
+
+### Endoplasmatiska nätverket och ribosomer
+
+Det **endoplasmatiska nätverket** är den största strukturen inuti cellen. Det har en viktig roll i transport och tillverkning av ämnen i cellen, men har även en roll i ex. muskelkontraktion.
+
+---
+
+![](https://hackmd.io/_uploads/SyDepr_C3.png)
+*Strukturen hos endoplasmatiska nätverket och de två olika typerna.*
+
+---
+
+**Ribosomer** finns både fritt i cytosolen och bundet till det endoplasmatiska nätverket. Ribosomer är involverade i proteinsyntesen. 
+
+---
+
+![](https://hackmd.io/_uploads/r1EHpH_Ah.png)
+*3D-rendering av en ribosom*
+
+---
+
+### Golgi-apparaten
+
+I **golgiapparaten** bearbetas, sorteras och paketeras de proteiner som bildats i ribosomerna. Strukturen är ofta närliggande det **endoplasmatiska nätverket**.
+
+---
+
+![](https://hackmd.io/_uploads/Sy29RrdR3.png)
+*3D-rendering av golgiapparaten.*
+
+---
+
+### Lysosom
+
+**Lysosom** är en organell vars funktion är att bryta ned *makromolekyler*, framförallt proteiner och aminosyror.
+
+---
+
+![](https://hackmd.io/_uploads/Byrax8_C2.png)
+
+---
+
+### Cellkärna
+
+Cellkärnan består av ytterligare ett membran som särskiljer dess innehåll mot resten i *cytosolen*. Cellkärnan innehåller cellens arvsmassa i form av *DNA*.
+
+---
+
+![](https://hackmd.io/_uploads/SkV2wIOC2.png)
+
+*3D-rendering av cellkärnan.*
