@@ -27,7 +27,7 @@ För att kategorisera och sortera organismer behövs kategorier. Den lägsta kat
 ### Vad är en art?
 
 >[!FAQ] ‎ 
-Är varg och hund samma art?
+>Är varg och hund samma art?
 
 
 Tre perspektiv på en art i historisk ordning.
@@ -69,7 +69,7 @@ I detta perspektiv hade hunden kunnat ses som en underart till vargen.
 >[!INFO] Dagens perspektiv
 >Överlag har det historiskt varit mycket olika hur olika forskare inom olika fält definierar en art.
 >
-Idag är det fylogenetiska perspektivet något alla strävar efter att utgå från, men det finns fortfarande tillfällen där arter och klassifieringar utgår från de andra perspektiven.
+>Idag är det fylogenetiska perspektivet något alla strävar efter att utgå från, men det finns fortfarande tillfällen där arter och klassifieringar utgår från de andra perspektiven.
 
 ---
 
