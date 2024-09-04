@@ -81,4 +81,3 @@ De finns inte tillräckligt med forskning på hur skärmtid påverkar barn under
 De vill i sin studie undersöka både barnen fysiska- och psykiska mående efter ha använt olika typer av skärmar. De vill inkludera både surfplattor, mobiltelefoner och TV.
 
 ---
-
