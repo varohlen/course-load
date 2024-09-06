@@ -68,7 +68,7 @@ Matematik 2b är en fortsättning från kursen Matematik 1b och innehållet kän
 >[!EXAMPLE] Andragradsfunktioner
 >| Linjär funktion                                                    | Exponentialfunktion                                         | Andragradsfunktioner                                                |
 >| ------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------- |
->| ![[Screenshot 2024-08-22 at 16.32.02.png\|200]] $$ f(x)= kx + m $$ | ![[Pasted image 20240822163440.png\|200]] $$ f(x) = Ca^x $$ | ![[Pasted image 20240826094627.png\|200]] $$ f(x)= ax^2 + bx + c $$ |
+>| ![[linjär.png\|200]] $$ f(x)= kx + m $$ | ![[exp.png\|200]] $$ f(x) = Ca^x $$ | ![[andragrad.png\|200]] $$ f(x)= ax^2 + bx + c $$ |
 >|                                                                    |                                                             |                                                                     |
 
 >[!EXAMPLE] Geometri
