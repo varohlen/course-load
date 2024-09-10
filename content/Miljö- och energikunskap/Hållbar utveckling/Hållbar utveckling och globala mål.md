@@ -16,9 +16,7 @@ Vi har diskuterat vårat ekologiska fotavtryck och hur det är större än den *
 
 ---
 
-:::info
 **Hållbar utveckling**: en utveckling som tillfredställer dagens behov utan äventyra kommande generationers möjligheter att tillfredställa sina behov.
-:::
 
 ---
 
