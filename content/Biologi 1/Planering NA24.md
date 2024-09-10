@@ -25,3 +25,4 @@ tags:
 | 36    | 6/9   | Fredag | [[1.2 - Celler]]                | 18-19 |
 | 37    | 10/9  | Tisdag | [[1.2u - Vad finns i en cell?]] | -     |
 | 37    | 13/9  | Fredag | [[1.3 - Cellens organeller]]    | 18-19 |
+| 38    | 20/9  | Fredag | Läxförhör: Liv och celler       |       |
