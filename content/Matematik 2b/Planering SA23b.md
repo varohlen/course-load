@@ -14,22 +14,35 @@ tags:
 
 ## Introduktion och repetition
 
-| vecka | dag     | avsnitt                           | sida  | rek. uppgifter   |
-| ----- | ------- | --------------------------------- | ----- | ---------------- |
-| 34    | torsdag | Introduktion                      |       | -                |
-| 35    | måndag  | Räta linjens ekvation             | 8-12  | -                |
-| 35    | onsdag  | Stockholm                         | -     | -                |
-| 35    | torsdag | Stockholm                         | -     | -                |
-| 36    | måndag  | Räta linjens ekvation             | 13-16 | -                |
-| 36    | onsdag  | Checkpoint: Räta linjens ekvation | -     | e6AX4G<br>T1oFjs |
-|       |         |                                   |       |                  |
+| vecka | dag     | avsnitt                             | sida  | KM.se            |
+| ----- | ------- | ----------------------------------- | ----- | ---------------- |
+| 34    | torsdag | Introduktion                        |       |                  |
+| 35    | måndag  | Räta linjens ekvation               | 8-12  |                  |
+| 35    | onsdag  | Stockholm                           | -     |                  |
+| 35    | torsdag | Stockholm                           | -     |                  |
+| 36    | måndag  | Räta linjens ekvation               | 13-16 |                  |
+| 36    | onsdag  | Räta linjens ekvation<br>Checkpoint | -     | e6AX4G<br>T1oFjs |
 
 ---
 
 ## Linjära ekvationssystem
 
-| vecka | dag    | avsnitt                                       | sida | rek. uppgifter |
-| ----- | ------ | --------------------------------------------- | ---- | -------------- |
-| 36    | fredag | Grafiska lösningar av linjära ekvationssystem |      |                |
-| 37    | måndag |                                               |      |                |
-| 37    | onsdag |                                               |      |                |
+| vecka | dag     | avsnitt                                       | sida  | KM.se      |
+| ----- | ------- | --------------------------------------------- | ----- | ---------- |
+| 36    | torsdag | Grafiska lösningar av linjära ekvationssystem | 17-22 |            |
+| 37    | måndag  | Grafiska lösningar av linjära ekvationssystem | 17-22 |            |
+| 37    | onsdag  | Substitutionsmetoden<br>Checkpoint            | 23-28 | <br>H1HTmA |
+| 37    | torsdag | Additionsmetoden                              | 29-33 |            |
+| 38    | måndag  | Räknepass<br>Checkpoint                       | 23-33 |            |
+| 38    | onsdag  | Problemlösning med ekvationssystem            | 34-36 |            |
+| 38    | torsdag | Problemlösning med ekvationssystem            | 34-36 |            |
+| 39    | måndag  | Räknepass<br>Checkpoint                       |       |            |
+| 39    | onsdag  | Repetition/Övningsprov                        |       |            |
+| 39    | torsdag | *Ledig dag*                                   |       |            |
+| 40    | måndag  | Repetition/Övningsprov                        |       |            |
+| 40    | onsdag  | **Prov: Ekvationsystem**                      |       |            |
+
+---
+
+## Algebra
+
