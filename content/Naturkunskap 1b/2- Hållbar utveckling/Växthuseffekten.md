@@ -1,6 +1,5 @@
 ---
-tags:
-  - Nak1b
+tags: []
 ---
 
 - Skillnad växthuseffekt och förstärkt växthuseffekt
