@@ -27,19 +27,19 @@ tags:
 ## Tal, bråk och potenser
 
 
-| vecka | dag     | avsnitt              | sida  | rek. uppgifter                                       |
-| ----- | ------- | -------------------- | ----- | ---------------------------------------------------- |
-| 36    | måndag  | Decimalsystemet      | 26-27 | 2101, 2102, 2103, 2106, 2107, 2109, 2110, 2114, 2115 |
-| 36    | onsdag  | Avrundning           | 30-31 | 2119, 2120, 2121, 2123, 2125, 2126, 2128, 2131, 2132 |
-| 36    | torsdag | *Checkpoint*         | 26-31 | p5KCa5                                               |
-| 37    | måndag  | Tal i bråkform       | 37-38 | 2201, 2202, 2203, 2205, 2209, 2214, 2215, 2219, 2222 |
-| 37    | onsdag  | Förhållande          | 39-42 | 2226, 2227, 2229, 2231, 2232, 2234, 2235, 2238, 2240 |
-| 37    | torsdag | *Checkpoint*         | 37-42 | L74yax                                               |
-| 38    | måndag  | Potenser             | 43-45 | 2303, 2304, 2306, 2308, 2309, 2313, 2315             |
-| 38    | onsdag  | Tiopotenser          | 46-48 | 2320, 2321, 2322, 2323, 2326, 2329, 2331, (2333)     |
-| 38    | torsdag | Prefix               | 49-51 | 2335, 2337, 2340, 2351                               |
-| 39    | måndag  | Repetition/Inläsning | 56-63 |                                                      |
-| 39    | onsdag  | Repetition/Inläsning |       |                                                      |
-| 39    | torsdag | *Ledigt*             |       |                                                      |
-| 40    | måndag  | Repetition/Inläsning |       |                                                      |
-| 40    | onsdag  | **Prov**             |       |                                                      |
+| vecka | dag     | avsnitt                | sida  | rek. uppgifter                                       |
+| ----- | ------- | ---------------------- | ----- | ---------------------------------------------------- |
+| 36    | måndag  | Decimalsystemet        | 26-27 | 2101, 2102, 2103, 2106, 2107, 2109, 2110, 2114, 2115 |
+| 36    | onsdag  | Avrundning             | 30-31 | 2119, 2120, 2121, 2123, 2125, 2126, 2128, 2131, 2132 |
+| 36    | torsdag | *Checkpoint*           | 26-31 | p5KCa5                                               |
+| 37    | måndag  | Tal i bråkform         | 37-38 | 2201, 2202, 2203, 2205, 2209, 2214, 2215, 2219, 2222 |
+| 37    | onsdag  | Förhållande            | 39-42 | 2226, 2227, 2229, 2231, 2232, 2234, 2235, 2238, 2240 |
+| 37    | torsdag | *Checkpoint*           | 37-42 | L74yax                                               |
+| 38    | måndag  | Potenser               | 43-45 | 2303, 2304, 2306, 2308, 2309, 2313, 2315             |
+| 38    | onsdag  | Tiopotenser            | 46-48 | 2320, 2321, 2322, 2323, 2326, 2329, 2331, (2333)     |
+| 38    | torsdag | Prefix                 | 49-51 | 2335, 2337, 2340, 2351                               |
+| 39    | måndag  | Repetition             | 56-63 | km.se                                                |
+| 39    | onsdag  | Övningsprov/Repetition |       | km.se                                                |
+| 39    | torsdag | *Ledigt*               |       |                                                      |
+| 40    | måndag  | Övningsprov/Repetition |       | km.se                                                |
+| 40    | onsdag  | **Prov**               |       |                                                      |
