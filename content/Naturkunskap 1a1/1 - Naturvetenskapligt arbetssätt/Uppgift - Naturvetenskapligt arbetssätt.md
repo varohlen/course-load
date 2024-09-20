@@ -13,8 +13,9 @@ Använd boken, genomgångar, anteckning och internet för att besvara frågorna.
 ## Vad är naturvetenskap?
 
 1. 
-    >a) Vad är en hypotes?
-    >b) Vad menas med att hypotesen måste vara prövbar?
+>a) Vad är en hypotes?
+>
+>b) Vad menas med att hypotesen måste vara prövbar?
 
 
 2. Vilka är de olika stegen i vetenskaplig undersökning?
@@ -39,7 +40,9 @@ Använd boken, genomgångar, anteckning och internet för att besvara frågorna.
 
 
     >a) Finns det ett orsaksamband här?
+    >
     >b) Vad innebär *korrelation*?
+    >
     >c) Vad innebär *kausalitet*?
 
 ![](https://hackmd.io/_uploads/rJOfgfDkp.png)
@@ -53,7 +56,9 @@ Använd boken, genomgångar, anteckning och internet för att besvara frågorna.
 
 
     >a) Faktaresistens
+    >
     >b) Filterbubbla
+    >
     >c) Pseudovetenskap
 
 
