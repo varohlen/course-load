@@ -3,9 +3,7 @@ tags:
   - Nak1a1
 ---
 
-
 Svara på följande uppgifter för att repetera innehållet i avsnittet.
-
 Använd boken, genomgångar, anteckning och internet för att besvara frågorna.
 
 ---
@@ -47,9 +45,14 @@ Använd boken, genomgångar, anteckning och internet för att besvara frågorna.
 
 ![](https://hackmd.io/_uploads/rJOfgfDkp.png)
 
-
 ---
 
+
+
+
+<div class="page-break" style="page-break-before: always;"></div>
+
+---
 ## Källkritik
 
 1. Förklara orden

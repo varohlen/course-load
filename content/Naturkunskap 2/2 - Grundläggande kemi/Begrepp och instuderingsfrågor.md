@@ -10,7 +10,25 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 ## [[2.1 - Atomteorin]]
 
 >[!INFO] Begrepp
->
+>- Atom
+>- Bohrmodell
+>- Proton
+>- Neutron
+>- Elektron
+>- Grundämne
+>- Atomnummer
+>- Masstal
+>- Isotop
+>- Elektronmoln
+>- Elektronskal
+>- Valenselektron
+>- Valensskal
+>- Periodiska systemet
+>- Aggregationstillstånd
+>- Subatoma partiklar
+>- Fission
+>- Fusion
+
 
 >[!FAQ] Instuderingsfrågor
 
