@@ -31,7 +31,7 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 
 ---
 
-## [[2.2 - Aminosyror och proteiner]]]
+## [[2.2 - Aminosyror och proteiner]]
 
 >[!INFO] Begrepp
 >- Aminosyra
@@ -66,7 +66,7 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >10. Vad är en prostetisk grupp?
 
 ---
-## [[2.3 - Kolhydrater]]]
+## [[2.3 - Kolhydrater]]
 
 >[!INFO] Begrepp
 >- Kolhydrat

@@ -25,11 +25,11 @@ tags:
 
 ## 2 - Cellbiologi och biomolekyler
 
-| vecka | datum | dag    | innehåll                                                                                                 | sidor |
-| ----- | ----- | ------ | -------------------------------------------------------------------------------------------------------- | ----- |
-| 37    | 10/9  | Tisdag | [[2.1 - Repetition och introduktion av cellbiologi och biomolekyler]]<br>[[2.1u - Vad finns i en cell?]] | -     |
-| 37    | 11/9  | onsdag | [[2.2 - Aminosyror och proteiner]]                                                                       | 23-24 |
-| 38    | 17/9  | tisdag | NA23 Stockholm - Labb NA22                                                                               | -     |
-| 38    | 18/9  | onsdag | NA23 Stockholm - Labb NA22                                                                               | -     |
-| 39    | 24/9  | tisdag | [[2.3 - Kolhydrater]]                                                                                    | 25-27 |
-| 39    | 25/9  | onsdag | [[2.4 - Lipider]]                                                                                        | 27-29 |
+| vecka | datum | dag    | innehåll                                                                                                      | sidor |
+| ----- | ----- | ------ | ------------------------------------------------------------------------------------------------------------- | ----- |
+| 37    | 10/9  | Tisdag | [[2.1 - Repetition och introduktion av cellbiologi och biomolekyler]]<br>[[2.1u - Vad finns i en cell?]]      | -     |
+| 37    | 11/9  | onsdag | [[2.2 - Aminosyror och proteiner]]                                                                            | 23-24 |
+| 38    | 17/9  | tisdag | NA23 Stockholm - Labb NA22                                                                                    | -     |
+| 38    | 18/9  | onsdag | NA23 Stockholm - Labb NA22                                                                                    | -     |
+| 39    | 24/9  | tisdag | [[2.3 - Kolhydrater]]                                                                                         | 25-27 |
+| 39    | 25/9  | onsdag | [[Biologi 2/2 - Cellbiologi och biomolekyler/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] | 23-27 |
