@@ -1,7 +1,4 @@
 ---
-tags:
-  - home
-title: Viktor's sammanfattningar - summor.se
+title: Viktor's sammanfattningar
 ---
-
-Här hittar ni sammanfattningar från Viktor's kurser på Partille Gymnasium.
+Välkommen till Viktors sammanfattningar!

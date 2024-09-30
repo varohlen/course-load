@@ -26,7 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-2", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        const omit = new Set(["matematik-1a","matematik-2b","biologi-2", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap","summor","index"])
         return !omit.has(node.name.toLowerCase())
       },
     })))),
@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap","summor"])
         return !omit.has(node.name.toLowerCase())
       },
     })))),
@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["biologi-2","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        const omit = new Set(["biologi-2","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap","summor"])
         return !omit.has(node.name.toLowerCase())
       },
     })))),
@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","biologi-2","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        const omit = new Set(["matematik-1a","biologi-2","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap","summor"])
         return !omit.has(node.name.toLowerCase())
       },
     })))),
@@ -58,7 +58,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","biologi-2"])
+        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","biologi-2","summor"])
         return !omit.has(node.name.toLowerCase())
       },
     })))),
@@ -66,7 +66,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-2", "biologi-1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        const omit = new Set(["matematik-1a","matematik-2b","biologi-2", "biologi-1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap","summor"])
         return !omit.has(node.name.toLowerCase())
       },
     })))),
@@ -74,7 +74,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","biologi-2","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
+        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","biologi-2","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap","summor"])
         return !omit.has(node.name.toLowerCase())
       },
     })))),
@@ -82,7 +82,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "open",
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","biologi-2","miljö--och-energikunskap"])
+        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","biologi-2","miljö--och-energikunskap","summor"])
         return !omit.has(node.name.toLowerCase())
       },
     })))),
@@ -100,79 +100,7 @@ export const defaultListPageLayout: PageLayout = {
     //Component.ContentMeta()
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.OnlyFor({ tags: ["Bio1"]}, (Component.Explorer({
-      folderDefaultState: "open",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-2", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })))),
-    Component.DesktopOnly(Component.OnlyFor({ tags: ["Bio2"]}, (Component.Explorer({
-      folderDefaultState: "open",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })))),
-    Component.DesktopOnly(Component.OnlyFor({ tags: ["Mat1a"]}, (Component.Explorer({
-      folderDefaultState: "open",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["biologi-2","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })))),
-    Component.DesktopOnly(Component.OnlyFor({ tags: ["Mat2b"]}, (Component.Explorer({
-      folderDefaultState: "open",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","biologi-2","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })))),
-    Component.DesktopOnly(Component.OnlyFor({ tags: ["Hål1"]}, (Component.Explorer({
-      folderDefaultState: "open",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","biologi-2"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })))),
-    Component.DesktopOnly(Component.OnlyFor({ tags: ["Nak1a1"]}, (Component.Explorer({
-      folderDefaultState: "open",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-2", "biologi-1", "hosting","naturkunskap-1b","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })))),
-    Component.DesktopOnly(Component.OnlyFor({ tags: ["Nak1b"]}, (Component.Explorer({
-      folderDefaultState: "open",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","biologi-2","biologi","naturkunskap","naturkunskap-2","miljö--och-energikunskap"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })))),
-    Component.DesktopOnly(Component.OnlyFor({ tags: ["Nak2"]}, (Component.Explorer({
-      folderDefaultState: "open",
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["matematik-1a","matematik-2b","biologi-1", "naturkunskap-1a1", "hosting","naturkunskap-1b","biologi","naturkunskap","biologi-2","miljö--och-energikunskap"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    })))),
-    
-   
- 
   ],
   right: [
-
   ],
 }
