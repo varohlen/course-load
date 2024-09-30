@@ -1,7 +1,7 @@
 ---
 tags:
   - Nak1b
-title: Naturvetenskapligt arbetssätt
+title: 1 - Naturvetenskapligt arbetssätt
 ---
 **Naturvetenskapligt arbetssätt**
 >- Naturvetenskapliga arbetsmetoder, till exempel observationer, klassificering, mätningar, simuleringar och experiment samt etiska förhållningssätt kopplade till det naturvetenskapliga utforskandet.

@@ -26,6 +26,8 @@ Se Skola24 eller planering nedan för att hålla koll.
 | 37    | fredag | [[2.1 - Energiprincipen]]<br>[[2.1u - Energikällor]] | 98-100<br>104-116 |
 | 38    | måndag | [[2.1u - Energikällor]]                              | 104-116           |
 | 39    | måndag | [[2.1u - Energikällor]]                              | 104-116           |
-|       |        |                                                      |                   |
+| 40    | måndag | [[2.2 - Växthuseffekten och andra miljöproblem]]     | -                 |
+| 40    | fredag | [[2.2u - Miljöproblem]]                              | -                 |
+| 41    | måndag | [[2.2u - Miljöproblem]]                              | -                 |
 
 ---
