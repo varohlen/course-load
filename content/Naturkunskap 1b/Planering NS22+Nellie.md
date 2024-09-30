@@ -15,7 +15,7 @@ Se Skola24 eller planering nedan för att hålla koll.
 
 ---
 
-## Naturvetenskapligt arbetssätt
+## 1- Naturvetenskapligt arbetssätt
 
 | vecka | dag    | avsnitt                                              | sidor             |
 | ----- | ------ | ---------------------------------------------------- | ----------------- |
@@ -23,11 +23,16 @@ Se Skola24 eller planering nedan för att hålla koll.
 | 36    | måndag | [[1.1 - Källkritik och pseudovetenskap]]             | 6-17              |
 | 36    | fredag | [[1.2u  Pseudovetenskap]]                            | 12                |
 | 37    | måndag | [[1.2u  Pseudovetenskap]]                            | 12                |
+
+---
+
+## 2 - Hållbar utveckling
+
+| vecka | dag    | avsnitt                                              | sidor             |
+| ----- | ------ | ---------------------------------------------------- | ----------------- |
 | 37    | fredag | [[2.1 - Energiprincipen]]<br>[[2.1u - Energikällor]] | 98-100<br>104-116 |
 | 38    | måndag | [[2.1u - Energikällor]]                              | 104-116           |
 | 39    | måndag | [[2.1u - Energikällor]]                              | 104-116           |
 | 40    | måndag | [[2.2 - Växthuseffekten och andra miljöproblem]]     | -                 |
 | 40    | fredag | [[2.2u - Miljöproblem]]                              | -                 |
 | 41    | måndag | [[2.2u - Miljöproblem]]                              | -                 |
-
----
