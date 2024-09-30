@@ -41,7 +41,7 @@ export default (() => {
   <div class="dropdown-content">
     <a href="/Naturkunskap-1a1">Naturkunskap 1a1</a>
     <a href="/Naturkunskap-1b">Naturkunskap 1b</a>
-    <a href="/Naturkunskap-2">Naturkunskap 2</a>
+    <a href="/Naturkunskap-2/Planering-SA23b">Naturkunskap 2</a>
   </div>
 </div> 
             
