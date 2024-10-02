@@ -154,7 +154,7 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >- Testosteron
 >- Östrogen
 >- Steroidhormon
->- 
+
 
 >[!FAQ] Instuderingsfrågor
 
@@ -163,6 +163,24 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 ## [[2.5 - Nukleotider och nukleinsyror]]
 
 >[!INFO] Begrepp
+>- Nukleinsyra
+>- RNA
+>- DNA
+>- Nukleotid
+>- Kvävebas
+>	- Adenin
+>	- Cytosin
+>	- Guanin
+>	- Tymin
+>	- Uracil
+>- Pentos
+>	- Ribos
+>	- Deoxiribos
+>- Fosfatgrupp
+>- Fosfatsyra
+>- ATP
+>- Prostetisk grupp
+
 
 >[!FAQ] Instuderingsfrågor
 
