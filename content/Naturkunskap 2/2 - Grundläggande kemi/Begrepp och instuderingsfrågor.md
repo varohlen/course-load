@@ -57,3 +57,19 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 
 ---
 
+## [[2.2 - Kemiska föreningar]]
+
+
+>[!INFO] Begrepp
+>- Rena ämnen
+>- Kemisk förening
+>- Blandningar
+>- Homogen blandning
+>- Heterogen blandning
+>- Legering
+>- Oktettregeln
+>- Ädelgasstruktur
+>- Ädelgas
+
+
+>[!FAQ] Instuderingsfrågor
