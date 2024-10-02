@@ -31,9 +31,9 @@ tags:
 | 38    | 17/9  | tisdag | NA23 Stockholm - Labb NA22                                                                                    | -     |
 | 38    | 18/9  | onsdag | NA23 Stockholm - Labb NA22                                                                                    | -     |
 | 39    | 24/9  | tisdag | [[2.3 - Kolhydrater]]                                                                                         | 25-27 |
-| 39    | 25/9  | onsdag | [[Biologi 2/2 - Cellbiologi och biomolekyler/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] | 23-27 |
+| 39    | 25/9  | onsdag | [[Biologi 2/2 - Biomolekyler/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] | 23-27 |
 | 40    | 1/10  | tisdag | [[2.4 - Lipider]]<br>[[2.5 - Nukleotider och nukleinsyror]]                                                   | 27-30 |
-| 40    | 2/10  | onsdag | [[Biologi 2/2 - Cellbiologi och biomolekyler/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] | 23-30 |
+| 40    | 2/10  | onsdag | [[Biologi 2/2 - Biomolekyler/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] | 23-30 |
 
 ---
 

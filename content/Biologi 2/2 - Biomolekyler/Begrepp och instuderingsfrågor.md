@@ -138,8 +138,23 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >- Triglycerid
 >- Fettlösliga vitaminer
 >- Membranbildande lipider
+>- Hydrofil
+>- Hydrofob
+>- Amfifil
 >- Fosfolipid
+>- Cellmembran
+>- Membran
 >- Glykolipid
+>- Sfingolipid
+>- Steroid
+>- Kolvätering
+>- Cyklopentan
+>- Cyklohexan
+>- Kolestrol
+>- Testosteron
+>- Östrogen
+>- Steroidhormon
+>- 
 
 >[!FAQ] Instuderingsfrågor
 
