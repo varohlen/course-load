@@ -23,8 +23,9 @@ Utgångspunkten är att vi är i C1, vi har dock tillgång till ES3 genom att by
 ---
 ## 2 - Grundläggande kemi
 
-| vecka | dag    | avsnitt                                                                                                  |
-| ----- | ------ | -------------------------------------------------------------------------------------------------------- |
-| 38    | tisdag | [[2.1 - Atomteorin]]                                                                                     |
-| 39    | tisdag | [[Naturkunskap 2/2 - Grundläggande kemi/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] |
-| 40    | tisdag | [[2.2 - Kemiska föreningar]]                                                                             |
+| vecka | dag    | avsnitt                                                                                                                         |
+| ----- | ------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| 38    | tisdag | [[2.1 - Atomteorin]]                                                                                                            |
+| 39    | tisdag | [[Naturkunskap 2/2 - Grundläggande kemi/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]]                        |
+| 40    | tisdag | [[2.2 - Kemiska föreningar]]                                                                                                    |
+| 41    | tisdag | [[2.2 - Kemiska föreningar]]<br>[[Biologi 1/1 - Liv och celler/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] |

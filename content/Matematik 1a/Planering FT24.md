@@ -42,4 +42,5 @@ tags:
 | 39    | onsdag  | Övningsprov/Repetition |       | km.se                                                |
 | 39    | torsdag | *Ledigt*               |       |                                                      |
 | 40    | måndag  | Övningsprov/Repetition |       | km.se                                                |
-| 40    | onsdag  | **Prov**               |       |                                                      |
+| 40    | onsdag  | *Orientering*          |       |                                                      |
+| 40    | torsdag | **Prov**               |       |                                                      |

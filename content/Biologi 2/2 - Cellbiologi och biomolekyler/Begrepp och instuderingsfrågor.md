@@ -7,7 +7,7 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 
 ---
 
-## [[2.1 - Repetition och introduktion av cellbiologi och biomolekyler]]
+## [[2.1 - Repetition Cellbiologi]]
 
 >[!INFO] Begrepp
 >- Stimuli
@@ -117,5 +117,42 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >	- Varför kan inte människor bryta ned cellulosa?
 >	- Vad är kitin?
 
+---
 
+## [[2.4 - Lipider]]
 
+>[!INFO] Begrepp
+>- Lipid
+>- Opolära ämnen
+>- Kolvätekedja
+>- "Lika löser lika"
+>- Fett
+>- Fettsyra
+>- Karboxylsyra
+>- Omättad fettsyra
+>- Mättad fettsyra
+>- Fleromättad fettsyra
+>- Omega-3
+>- Omega-6
+>- Glycerol
+>- Triglycerid
+>- Fettlösliga vitaminer
+>- Membranbildande lipider
+>- Fosfolipid
+>- Glykolipid
+
+>[!FAQ] Instuderingsfrågor
+
+---
+
+## [[2.5 - Nukleotider och nukleinsyror]]
+
+>[!INFO] Begrepp
+
+>[!FAQ] Instuderingsfrågor
+
+---
+
+## Övergripande frågeställningar
+
+>[!FAQ] Instuderingsfrågor

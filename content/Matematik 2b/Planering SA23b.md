@@ -40,7 +40,8 @@ tags:
 | 39    | onsdag  | Repetition/Övningsprov                        |       |            |
 | 39    | torsdag | *Ledig dag*                                   |       |            |
 | 40    | måndag  | Repetition/Övningsprov                        |       |            |
-| 40    | onsdag  | **Prov: Ekvationsystem**                      |       |            |
+| 40    | onsdag  | *Orientering*                                 |       |            |
+| 40    | torsdag | **Prov: Ekvationsystem**                      |       |            |
 
 ---
 
