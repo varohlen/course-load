@@ -35,6 +35,6 @@ tags:
 | ----- | ----- | ------ | --------------------------- | ----- |
 | 39    | 27/9  | fredag | [[2.0u - Släktträd]]        | -     |
 | 40    | 1/10  | tisdag | [[2.0u - Släktträd]]        | -     |
-| 40    | 4/10  | fredag | [[2.1 - Begrepp och teori]] | 90-92 |
+| 40    | 4/10  | fredag | [[2.1 - Systematik och taxonomi]] | 90-92 |
 | 41    | 8/10  | tisdag |                             |       |
 | 41    | 11/10 | fredag |                             |       |

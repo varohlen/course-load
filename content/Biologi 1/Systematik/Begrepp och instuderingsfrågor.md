@@ -4,7 +4,7 @@ tags:
 ---
 För ge möjlighet att studera sammanfattningar finns här begrepplistor till de olika avsnitten samt instuderingsfrågor.
 
-## 1.0 - Begrepp och teori
+## [[2.1 - Systematik och taxonomi]]
 
 >[!INFO] Begrepp
 >- Systematik
@@ -28,7 +28,19 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >- "Coral of life"
 >- Kronologi
 
+>[!FAQ] Instuderingsfrågor
 
+---
+
+## [[2.2 - Kladistik]]
+
+
+>[!INFO] Begrepp
+>- Kladistik
+>- Fylogenetisk systematik
+>- Monofyletisk grupp
+>- Parafyletisk grupp
+>- Polyfyletisk grupp
 
 
 >[!FAQ] Instuderingsfrågor
