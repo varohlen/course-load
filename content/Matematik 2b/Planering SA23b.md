@@ -47,3 +47,9 @@ tags:
 
 ## Algebra
 
+| vecka | dag     | avsnitt                        | sida  | KM.se |
+| ----- | ------- | ------------------------------ | ----- | ----- |
+| 41    | måndag  | Repetition Algebra             | 51-52 | -     |
+| 41    | onsdag  | Rättning Prov: Ekvationssystem | -     | -     |
+| 41    | torsdag | Kvadrerings- och konjugatregel | 55-56 | -     |
+

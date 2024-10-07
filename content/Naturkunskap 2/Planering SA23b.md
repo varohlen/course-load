@@ -4,9 +4,9 @@ tags:
 ---
 ### Lektioner
 
-| Dag      | Sal     | Tid           |
-| -------- | ------- | ------------- |
-| Tisdag   | C1(ES3) | 12.30-13.40   |
+| Dag    | Sal     | Tid         |     |
+| ------ | ------- | ----------- | --- |
+| Tisdag | C1(ES3) | 12.30-13.40 |     |
 
 Utgångspunkten är att vi är i C1, vi har dock tillgång till ES3 genom att byta sal med SA23a som har Naturkunskap 2 parallellt med er. Om inget annat anges i planering eller på Classroom så är vi i C1.
 

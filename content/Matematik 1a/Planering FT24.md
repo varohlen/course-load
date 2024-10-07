@@ -24,8 +24,7 @@ tags:
 
 ---
 
-## Tal, bråk och potenser
-
+## 1 - Tal, bråk och potenser
 
 | vecka | dag     | avsnitt                | sida  | rek. uppgifter                                       |
 | ----- | ------- | ---------------------- | ----- | ---------------------------------------------------- |
@@ -44,3 +43,16 @@ tags:
 | 40    | måndag  | Övningsprov/Repetition |       | km.se                                                |
 | 40    | onsdag  | *Orientering*          |       |                                                      |
 | 40    | torsdag | **Prov**               |       |                                                      |
+
+---
+
+## 2 - Algebra
+
+| vecka | dag     | avsnitt                        | sida  | rek. uppgifter                           |
+| ----- | ------- | ------------------------------ | ----- | ---------------------------------------- |
+| 41    | måndag  | Formler uttryck och mönster    | 66-69 | 3101, 3102, 3105, 3106, 3108, 3109, 3112 |
+| 41    | onsdag  | Ställa upp formler och uttryck | 70-73 | 3118, 3119, 3121, 3123, 3126, 3127, 3131 |
+| 41    | torsdag |                                |       |                                          |
+
+
+

@@ -51,7 +51,7 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >17. Var hittar vi fusion i universum?
 >18. Vilka grundämnen klyvs uran till vid fission?
 >19. Vad händer med det *totala* masstalet vid fission och fusion?
->20. Varför förändras masstalet?
+>20. Varför förändras masstalet (vid fission och fusion)?
 
 
 
