@@ -5,17 +5,18 @@ tags:
 
 >[!hint] Lärobok
 >Denna kurssida utgår från Origo's Matematik 2b
+>
 >![[ma2bbok.png]]
 
 
 
 >[!success] Övriga resurser
->Z
->Kurshemsida
->z
->Classroom
-><
->Kunskapsmatrisen
+>
+>- Kurshemsida
+>
+>- Classroom
+>
+>- Kunskapsmatrisen
 
 
 
@@ -54,6 +55,7 @@ Matematik 2b är en fortsättning från kursen Matematik 1b och innehållet kän
 > - Faktorisera och förenkla algebraiska uttryck
 > 
 > Kvadrerings- och konjugatregler
+> 
 > $$ (a+b)^2 = a^2 + 2ab + b^2$$
 > 
 > $$ (a+b)(a-b) = a^2 - b^2 $$
