@@ -70,6 +70,33 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >- Oktettregeln
 >- Ädelgasstruktur
 >- Ädelgas
+>- Kemisk reaktion
+>- Molekyl
+>- Elektronpar
+>- Elektronsparsbindning
+>- Kovalent bindning
+>- Kemisk formel
+>- Summaformel
+>- Strukturformel
+>- Jonförening
+>- Salt
+>- Alkalimetall
+>- Halogen
+>- Jon
+>- Jonbindning
+>- Sammansatta joner
 
 
 >[!FAQ] Instuderingsfrågor
+>1. Ange vilka av följande som är rena ämnen eller blandningar (och vilken typ av blandning)
+>>Koldioxid
+>>Luften
+>>Destillerat vatten
+>> Sand blandat med salt
+>>Sockerlösning
+>> Stål
+>2. Vad skiljer en homogen blandning och en heterogen blandning?
+>3. Vad är skillnaden och likheten mellan *oktettregeln* och *ädelgasstruktur*?
+
+
+
