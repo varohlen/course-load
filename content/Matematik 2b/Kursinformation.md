@@ -39,6 +39,7 @@ Matematik 2b är en fortsättning från kursen Matematik 1b och innehållet kän
 >[!EXAMPLE] Räta linjens ekvation
 >Repeteras från tidigare kurs och är av relevans för övriga områden i kursen.
 >Följande former på räta linjens ekvation behandlas:
+>
 > $$ y=kx+m $$
 > 
 > $$ ax+by+c = 0 $$

@@ -102,6 +102,34 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >> Stål
 >2. Vad skiljer en homogen blandning och en heterogen blandning?
 >3. Vad är skillnaden och likheten mellan *oktettregeln* och *ädelgasstruktur*?
+>4. Vilka är de två vanligaste beståndsdelarna i luften?
+>5. Vad är en legering?
+>6. Hur vill alla atomer se ut? (Gällande sina elektroner)
+>7. Kan väte och syre hittas som atomer i naturen? Varför / varför inte?
+>8. Vad innebär en *kovalent bindning*?
+>9. På vilket sätt uppnår väteatomer ädelgasstruktur i vätgas?
+>10. Vad är en summaformel?
+>11. Vad är en strukturformel?
+>12.  Utifrån följande tabell svara på frågorna nedan
+>    ---
+>    
+>    
+> | Namn    | Summaformel                               | Strukturformel                            |
+> | ------- | ----------------------------------------- | ----------------------------------------- |
+> | Vätgas  | ![[Pasted image 20241007202142.png\|50]]  | ![[Pasted image 20241007203410.png\|100]] |
+> | Vatten  | ![[Pasted image 20241007202209.png\|75]]  | ![[Pasted image 20241007203421.png\|100]] |
+> | Kvävgas | ![[Pasted image 20241007202302.png\|50]]  | ![[Pasted image 20241007203536.png\|100]] |
+> | Etanol  | ![[Pasted image 20241007202614.png\|150]] | ![[Pasted image 20241007203905.png\|200]] |
+> 
+> > a. Vad skiljer kvävgas och vätgas åt? (Studera bindningarna)
+> > b. När är strukturformel bättre än summaformel?
+> > c. När är summaformel bättre än strukturformel?
+> > d. I etanol står inte alla väte tillsammans i summaformeln, utifrån strukturformeln, fundera på varför.
+> 
+> 13.  Hur stor är en molekyl?
+> 
+
+
 
 
 

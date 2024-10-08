@@ -186,6 +186,3 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 
 ---
 
-## Övergripande frågeställningar
-
->[!FAQ] Instuderingsfrågor
