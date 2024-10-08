@@ -116,10 +116,10 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >    
 > | Namn    | Summaformel                               | Strukturformel                            |
 > | ------- | ----------------------------------------- | ----------------------------------------- |
-> | Vätgas  | ![[Pasted image 20241007202142.png\|50]]  | ![[Pasted image 20241007203410.png\|100]] |
-> | Vatten  | ![[Pasted image 20241007202209.png\|75]]  | ![[Pasted image 20241007203421.png\|100]] |
-> | Kvävgas | ![[Pasted image 20241007202302.png\|50]]  | ![[Pasted image 20241007203536.png\|100]] |
-> | Etanol  | ![[Pasted image 20241007202614.png\|150]] | ![[Pasted image 20241007203905.png\|200]] |
+> | Vätgas  | ![[vätgassumma.png\|50]]  | ![[vätgasstruktur.png\|100]] |
+> | Vatten  | ![[h2osumma.png\|75]]  | ![[h2ostruktur.png\|100]] |
+> | Kvävgas | ![[kvävesumma.png\|50]]  | ![[kvävestruktur.png\|100]] |
+> | Etanol  | ![[etanolsumma.png\|150]] | ![[etanolstruktur.png\|200]] |
 > 
 > > a. Vad skiljer kvävgas och vätgas åt? (Studera bindningarna)
 > > b. När är strukturformel bättre än summaformel?
