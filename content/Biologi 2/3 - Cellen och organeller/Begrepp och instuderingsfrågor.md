@@ -41,3 +41,10 @@ tags:
 >- "Lika löser lika"
 
 >[!FAQ] Instuderingsfrågor
+>1. Hur är en fosfolipid uppbyggd?
+>2. Hur bygger fosfolipider upp cellmembranet?
+>3. Vad har "lika löser lika" för betydelse gällande fosfolipider och cellmembranet?
+>4. Hur organiserar sig fosfolipider i en vätska?
+>5. Vad har cellmembranet för funktioner utöver att skilja intra- och extracellulärt?
+
+
