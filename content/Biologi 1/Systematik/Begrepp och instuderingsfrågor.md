@@ -59,3 +59,25 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >2. Vad är en monofyletisk grupp och varför är det eftersträvansvärt?
 >3. Vad är en parafyletisk grupp och varför försöker vi undvika det?
 >4. Vad är en polyfyletisk grupp och varför försöker vi undvika det?
+>5. Det finns flera grupper vi använder oss av idag som *inte är monofyletiska*, ett exempel är *kräldjur*.
+>   
+>   Den gruppen ser ut så här
+>   ![[Pasted image 20241010152847.png|500]]
+>   
+>   > Varför är den inte monofyletisk? Och vad skulle du kalla den typen av grupp?
+>   > 
+>   > Varför tror du gruppen fortfarande används idag?
+>   
+> 6. Ytterligare en grupp som omnämns ofta är  *prokaryoter*, dvs organismer som saknar äkta cellkärna. Vi ritar in dem i vårt fylogenetiska släktträd.
+>    
+>    ![[Pasted image 20241010153236.png|500]]
+>    
+>    > Vad är problemet med gruppen? Varför vill vissa undvika att använda den? Utgå från ett fylogenetiskt perspektiv.
+>    > 
+>    > Varför tror du den används fortfarande av vissa läroböcker och biologer?
+>    
+
+
+>   
+
+

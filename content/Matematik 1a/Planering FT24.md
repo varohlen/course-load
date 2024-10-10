@@ -51,14 +51,14 @@ tags:
 | vecka | dag     | avsnitt                        | sida  | rek. uppgifter                                                                        |
 | ----- | ------- | ------------------------------ | ----- | ------------------------------------------------------------------------------------- |
 | 41    | måndag  | Uttryck och formler            | 66-69 | 3101, 3102, 3105, 3106, 3108, 3109, 3112                                              |
-| 41    | onsdag  | Ställa upp formler och uttryck | 70-73 | 3118, 3119, 3121, 3123, 3126, 3127, 3131                                              |
-| 41    | torsdag | Mönster och formler            | 74-76 | 3138, 3139, 3141, 3142, 3144, 3146                                                    |
-| 42    | måndag  | Räknespass                     | 66-76 |                                                                                       |
-| 42    | onsdag  | Förenkla uttryck               | 81-85 | 3201, 3203, 3206, 3208,3209, 3210,(3212), 3218, 3220, 3221, 3222, 32225, (3226, 3229) |
+| 41    | onsdag  | Räknepass/Provutvärdering      | -     | -                                                                                     |
+| 41    | torsdag | Ställa upp formler och uttryck | 70-73 | 3118, 3119, 3121, 3123, 3126, 3127, 3131                                              |
+| 42    | måndag  | Mönster och formler            | 74-76 | 3138, 3139, 3141, 3142, 3144, 3146                                                    |
+| 42    | onsdag  | Räknespass                     | 66-76 |                                                                                       |
 | 42    | torsdag | Förenkla uttryck               | 81-85 | 3201, 3203, 3206, 3208,3209, 3210,(3212), 3218, 3220, 3221, 3222, 32225, (3226, 3229) |
-| 43    | måndag  | Uttryck av andra graden        | 86-88 | 3232, 3233, 3235, 3236, 3241, (3247, 3249)                                            |
-| 43    | onsdag  | Multiplicera parenteser        | 89-92 |                                                                                       |
-| 43    | torsdag | Räknepass                      |       |                                                                                       |
+| 43    | måndag  | Förenkla uttryck               | 81-85 | 3201, 3203, 3206, 3208,3209, 3210,(3212), 3218, 3220, 3221, 3222, 32225, (3226, 3229) |
+| 43    | onsdag  | Uttryck av andra graden        | 86-88 | 3232, 3233, 3235, 3236, 3241, (3247, 3249)                                            |
+| 43    | torsdag | Multiplicera parenteser        | 89-92 |                                                                                       |
 **HÖSTLOV**
 
 | vecka | dag    | avsnitt | sida | rek. uppgifter |

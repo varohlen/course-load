@@ -31,10 +31,10 @@ tags:
 
 ## 2 - Systematik
 
-| vecka | datum | dag    | innehåll                    | sidor |
-| ----- | ----- | ------ | --------------------------- | ----- |
-| 39    | 27/9  | fredag | [[2.0u - Släktträd]]        | -     |
-| 40    | 1/10  | tisdag | [[2.0u - Släktträd]]        | -     |
-| 40    | 4/10  | fredag | [[2.1 - Systematik och taxonomi]] | 90-92 |
-| 41    | 8/10  | tisdag |                             |       |
-| 41    | 11/10 | fredag |                             |       |
+| vecka | datum | dag    | innehåll                                                                                | sidor |
+| ----- | ----- | ------ | --------------------------------------------------------------------------------------- | ----- |
+| 39    | 27/9  | fredag | [[2.0u - Släktträd]]                                                                    | -     |
+| 40    | 1/10  | tisdag | [[2.0u - Släktträd]]                                                                    | -     |
+| 40    | 4/10  | fredag | [[2.1 - Systematik och taxonomi]]                                                       | 90-92 |
+| 41    | 8/10  | tisdag | [[2.2 - Kladistik]]                                                                     | -     |
+| 41    | 11/10 | fredag | [[Biologi 1/Systematik/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] | -     |
