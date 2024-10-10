@@ -62,6 +62,7 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >5. Det finns flera grupper vi använder oss av idag som *inte är monofyletiska*, ett exempel är *kräldjur*.
 >   
 >   Den gruppen ser ut så här
+>   
 >   ![[Pasted image 20241010152847.png|500]]
 >   
 >   > Varför är den inte monofyletisk? Och vad skulle du kalla den typen av grupp?
@@ -77,7 +78,5 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >    > Varför tror du den används fortfarande av vissa läroböcker och biologer?
 >    
 
-
->   
 
 
