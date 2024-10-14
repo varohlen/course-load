@@ -122,9 +122,13 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 > | Etanol  | ![[etanolsumma.png\|150]] | ![[etanolstruktur.png\|200]] |
 > 
 > > a. Vad skiljer kvävgas och vätgas åt? (Studera bindningarna)
+> > 
 > > b. När är strukturformel bättre än summaformel?
+> > 
 > > c. När är summaformel bättre än strukturformel?
+> > 
 > > d. I etanol står inte alla väte tillsammans i summaformeln, utifrån strukturformeln, fundera på varför.
+> > 
 > 
 > 13.  Hur stor är en molekyl?
 > 

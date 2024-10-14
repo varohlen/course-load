@@ -36,3 +36,6 @@ Se Skola24 eller planering nedan för att hålla koll.
 | 40    | måndag | [[2.2 - Växthuseffekten och andra miljöproblem]]     | -                 |
 | 40    | fredag | [[2.2u - Miljöproblem]]                              | -                 |
 | 41    | måndag | [[2.2u - Miljöproblem]]                              | -                 |
+| 41    | fredag | [[2.2u - Miljöproblem]]                              |                   |
+| 42    | måndag | Ekologi: Gemensam läsning                            | 64-93             |
+| 43    | måndag | Ekologi: Gemensam läsning                            | 64-93             |
