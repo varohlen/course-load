@@ -47,9 +47,12 @@ tags:
 
 ## Algebra
 
-| vecka | dag     | avsnitt                        | sida  | KM.se |
-| ----- | ------- | ------------------------------ | ----- | ----- |
-| 41    | måndag  | Repetition Algebra             | 51-52 | -     |
-| 41    | onsdag  | Rättning Prov: Ekvationssystem | -     | -     |
-| 41    | torsdag | Kvadrerings- och konjugatregel | 55-56 | -     |
+| vecka | dag     | avsnitt                        | sida  | KM.se |     |
+| ----- | ------- | ------------------------------ | ----- | ----- | --- |
+| 41    | måndag  | Repetition Algebra             | 51-52 | -     |     |
+| 41    | onsdag  | Rättning Prov: Ekvationssystem | -     | -     |     |
+| 41    | torsdag | [[Konjugatregeln]]             | 55-56 | -     |     |
+| 42    | måndag  | Kvadrerings- och konjugatregel | 55-56 | -     |     |
+| 42    | onsdag  | Kvadrerings- och konjugatregel | 55-56 |       |     |
+| 42    | torsdag | Faktorisering                  | 58-59 |       |     |
 
