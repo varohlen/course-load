@@ -131,6 +131,11 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 > > 
 > 
 > 13.  Hur stor är en molekyl?
+> 14. Vad är det som gör att en jon är elektriskt laddad?
+> 15. Vad avgör vilken typ av laddning en jon får?
+> 16. Kan joner bildas från något annat än atomer?
+> 17. Hur fungerar en jonförening?
+> 18. Ge ett exempel på en jonförening och var vi hittar den
 > 
 
 
