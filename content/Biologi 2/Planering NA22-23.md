@@ -43,5 +43,5 @@ tags:
 | ----- | ------ | ------------------------------------------------------------------------------------------------------ | ----- |
 | 41    | Tisdag | [[3.1 - Cellteorin]]                                                                                   | 31-32 |
 | 41    | onsdag | [[3.2 - Cellmembran]]                                                                                  | 33    |
-| 42    | tisdag | [[Biologi 2/3 - Cellen och organeller/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] | -     |
+| 42    | tisdag | [[Biologi 2/3 - Cellen och organeller/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] | 31-33 |
 

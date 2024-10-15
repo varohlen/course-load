@@ -39,6 +39,8 @@ tags:
 >- Polär förening
 >- Opolär förening
 >- "Lika löser lika"
+>- Micell
+>- Liposom
 
 >[!FAQ] Instuderingsfrågor
 >1. Hur är en fosfolipid uppbyggd?
@@ -46,5 +48,6 @@ tags:
 >3. Vad har "lika löser lika" för betydelse gällande fosfolipider och cellmembranet?
 >4. Hur organiserar sig fosfolipider i en vätska?
 >5. Vad har cellmembranet för funktioner utöver att skilja intra- och extracellulärt?
+>6. Vad skiljer en liposom och en micell?
 
 
