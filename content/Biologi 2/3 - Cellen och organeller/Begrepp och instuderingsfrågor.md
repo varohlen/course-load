@@ -51,3 +51,28 @@ tags:
 >6. Vad skiljer en liposom och en micell?
 
 
+---
+
+## [[3.3 - Endomembransystemet]]
+
+
+>[!INFO] Begrepp
+>- Endomembransystemet
+>- Kärnmembran
+>- Endoplasmatiska nätverket / ER / Endoplasmatiskt reticulum
+>- Ribosom
+>- Strävt ER
+>- Slätt ER
+>- Golgiapparaten
+>- Membranblåsor
+>- Exocytos
+>- Endocytos
+>- Lysosomer
+>- Protonpumpar
+>- Enzym
+>- Apoptos
+>- Peroxisomer
+>- Oxidation
+>- Fria radikaler
+
+>[!FAQ] Instuderingsfrågor
