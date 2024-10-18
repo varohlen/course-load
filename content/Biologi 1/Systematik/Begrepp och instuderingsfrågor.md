@@ -78,5 +78,43 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >    > Varför tror du den används fortfarande av vissa läroböcker och biologer?
 >    
 
+---
 
+## [[2.3 - Bakterier och arkéer]]
 
+>[!INFO] Begrepp
+>- Arkéer
+>- Bakterier
+>- Eukaryoter
+>- Domän
+>- Äkta cellkärna
+>- Prokaryot
+>- DNA
+>- Plasmider
+>- Kromosomer
+>- Plasmider
+>- Ringformad kromosom
+>- Cellvägg
+>- Flagell
+>- Pilus
+>- Autotrof
+>- Heterotrof
+>- Aeroba
+>- Anaeroba
+>- Sjukdomsalstrare
+>- Patogener
+>- Symbios
+>- Cellmembran
+
+>[!FAQ] Instuderingsfrågor
+>1. Vad kännetecknar en bakterie?
+>3. Vad kännetecknar en arkée?
+>4. Vad har de tre domänerna gemensamt? Vad skiljer dem åt?
+>5. Vad innebär autotrof och heterotrof?
+>6. Vad är skillnaden på en anaerob ämnesomsättning och en aerob ämnesomsättning?
+>7. Vad är en plasmid? Vad finns det för fördelar med plasmider?
+>8. Vad skiljer en bakterie och en eukaryot cell åt? Ge tre exempel!
+>9. Varför är prokaryota organismer ett begrepp vi undviker när vi pratar om systematik?
+>10. Vilka egenskaper kan skilja olika bakterier åt?
+>11. "Bakterier är viktiga för människan" - hur då?
+>12. Varför är arkéer en egen domän?
