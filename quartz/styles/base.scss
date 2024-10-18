@@ -109,7 +109,7 @@ a {
 
 .desktop-only {
   display: initial;
-  @media all and (max-width: $fullPageWidth) {
+  @media all and (max-width:$fullPageWidth) {
     display: none;
   }
 }
