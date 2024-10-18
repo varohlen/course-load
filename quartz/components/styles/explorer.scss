@@ -43,8 +43,8 @@ button#explorer {
 
 #explorer-content {
   list-style: none;
-  overflow: hidden;
-  max-height: none;
+  overflow-y: auto; // Aktivera scrollning
+  max-height: 80vh; // Sätt maxhöjd till 80% av viewporten
   transition:
     max-height 0.35s ease,
     visibility 0s linear 0s;
@@ -70,6 +70,7 @@ button#explorer {
       max-height 0.35s ease,
       transform 0.35s ease,
       opacity 0.2s ease;
+      
     & li > a {
       color: var(--dark);
       opacity: 0.75;
@@ -77,6 +78,7 @@ button#explorer {
     }
   }
 }
+
 
 svg {
   pointer-events: all;
