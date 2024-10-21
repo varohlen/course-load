@@ -55,4 +55,10 @@ tags:
 | 42    | måndag  | Kvadrerings- och konjugatregel | 55-56 | -     |     |
 | 42    | onsdag  | Kvadrerings- och konjugatregel | 55-56 |       |     |
 | 42    | torsdag | Faktorisering                  | 58-59 |       |     |
+| 43    | måndag  | Inlämningsuppgift              | -     |       |     |
+| 43    | onsdag  | -                              |       |       |     |
+| 43    | torsdag | Inlämningsuppgift              | -     |       |     |
 
+---
+
+## Andragradsekvationer
