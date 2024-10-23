@@ -76,3 +76,24 @@ tags:
 >- Fria radikaler
 
 >[!FAQ] Instuderingsfrågor
+
+---
+
+## [[3.4 - Organeller för struktur och rörelse]]
+
+
+>[!INFO] Begrepp
+>- Cytoskelett
+>- Cellskelett
+>- Mikrotubuli
+>- Kärnspole
+>- Mikrofilament
+>- Aktin
+>- Intermediära filament
+>- Laminer
+>- Cilier
+>- Flageller
+>- Vakuol
+>- Tonoplast
+
+
