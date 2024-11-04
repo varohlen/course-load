@@ -61,7 +61,17 @@ tags:
 | 43    | torsdag | Multiplicera parenteser        | 89-92 |                                                                                       |
 **HÖSTLOV**
 
-| vecka | dag    | avsnitt | sida | rek. uppgifter |
-| ----- | ------ | ------- | ---- | -------------- |
-| 45    | måndag |         |      |                |
+| vecka | dag     | avsnitt                       | sida    | rek. uppgifter                             |
+| ----- | ------- | ----------------------------- | ------- | ------------------------------------------ |
+| 45    | måndag  | Repetition                    | 86-92   | Se ovan                                    |
+| 45    | onsdag  | Faktorisera uttryck           | 93-96   | 3272, 3274, 3275, 3276, 3279, (3281, 3283) |
+| 45    | torsdag | Ekvationer                    | 100-102 | 3315, 3317, 3319, 3320, 3321, 3322, (3324) |
+| 46    | måndag  | Mer om ekvationer             | 103-105 |                                            |
+| 46    | onsdag  | Räknepass                     | 93-105  |                                            |
+| 46    | torsdag | Problemlösning och ekvationer | 106-109 | 3350, 3351, 3354, 3355, 3356 (3359, 3361)  |
+| 47    | måndag  | Att lösa ut formler           |         |                                            |
+| 47    | onsdag  | Övningsprov/Repetition        |         |                                            |
+| 47    | torsdag | Övningsprov/Repetition        |         |                                            |
+| 48    | måndag  | Övningsprov/Repetition        |         |                                            |
+| 48    | onsdag  | **Prov: Algebra**             |         |                                            |
 

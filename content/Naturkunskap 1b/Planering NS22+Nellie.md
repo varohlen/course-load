@@ -28,14 +28,19 @@ Se Skola24 eller planering nedan för att hålla koll.
 
 ## 2 - Hållbar utveckling
 
-| vecka | dag    | avsnitt                                              | sidor             |
-| ----- | ------ | ---------------------------------------------------- | ----------------- |
-| 37    | fredag | [[2.1 - Energiprincipen]]<br>[[2.1u - Energikällor]] | 98-100<br>104-116 |
-| 38    | måndag | [[2.1u - Energikällor]]                              | 104-116           |
-| 39    | måndag | [[2.1u - Energikällor]]                              | 104-116           |
-| 40    | måndag | [[2.2 - Växthuseffekten och andra miljöproblem]]     | -                 |
-| 40    | fredag | [[2.2u - Miljöproblem]]                              | -                 |
-| 41    | måndag | [[2.2u - Miljöproblem]]                              | -                 |
-| 41    | fredag | [[2.2u - Miljöproblem]]                              |                   |
-| 42    | måndag | Ekologi: Gemensam läsning                            | 64-93             |
-| 43    | måndag | Ekologi: Gemensam läsning                            | 64-93             |
+| vecka | dag         | avsnitt                                                           | sidor             |
+| ----- | ----------- | ----------------------------------------------------------------- | ----------------- |
+| 37    | fredag      | [[2.1 - Energiprincipen]]<br>[[2.1u - Energikällor]]              | 98-100<br>104-116 |
+| 38    | måndag      | [[2.1u - Energikällor]]                                           | 104-116           |
+| 39    | måndag      | [[2.1u - Energikällor]]                                           | 104-116           |
+| 40    | måndag      | [[2.2 - Växthuseffekten och andra miljöproblem]]                  | -                 |
+| 40    | fredag      | [[2.2u - Miljöproblem]]                                           | -                 |
+| 41    | måndag      | [[2.2u - Miljöproblem]]                                           | -                 |
+| 41    | fredag      | [[2.2u - Miljöproblem]]                                           |                   |
+| 42    | måndag      | Ekologi: Gemensam läsning                                         | 64-75             |
+| 43    | måndag      | Ekologi: Gemensam läsning                                         | 64-75             |
+| 44    | **HÖSTLOV** | **HÖSTLOV**                                                       |                   |
+| 45    | måndag      | Ekologi: Gemensam läsning<br>Diskussion: Olika typer av ekosystem | 64-75<br>77-93    |
+| 45    | fredag      | Diskussion: Olika typer av ekosystem                              | 77-93             |
+| 46    | måndag      | Prov eller inläsning?                                             |                   |
+| 47    | måndag      | Prov eller nytt område?                                           |                   |
