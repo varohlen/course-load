@@ -118,3 +118,30 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 >10. Vilka egenskaper kan skilja olika bakterier åt?
 >11. "Bakterier är viktiga för människan" - hur då?
 >12. Varför är arkéer en egen domän?
+
+---
+
+## [[2.4 - Eukaryoter - en översikt]]
+
+
+>[!INFO] Begrepp
+>- Domän
+>- Eukaryoter
+>- Riken
+>- Flercelliga organismer
+>- Endosymbiosteorin
+>- Djur
+>- Växter
+>- Svampar
+>- "Protister"
+
+>[!FAQ] Instuderingsfrågor
+>
+>1. Vilka tre domäner delas allt liv upp i?
+>2. Vad delar domänerna i sin tur upp i?
+>3. Varför är biologer intresserade av eukaryoternas ursprung?
+>4. Vad innebär endosymbiosteorin?
+>5. Vilka är de väldefinierade monofyletiska rikena inom eukaryoter?
+>6. Vad är protister?
+>7. Varför är inte protister en monofyletisk grupp?
+
