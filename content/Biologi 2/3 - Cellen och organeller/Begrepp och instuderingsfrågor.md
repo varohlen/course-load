@@ -76,6 +76,16 @@ tags:
 >- Fria radikaler
 
 >[!FAQ] Instuderingsfrågor
+>
+>1. Vilka strukturer ingår i endomembransystemet?
+>2. Varför ingår de i endomembransystemet?
+>3. Var i cellen hittar vi det endoplasmatiska nätverket?
+>4. Vad skiljer strävt ER från slätt ER i struktur och funktion?
+>5. Vad har golgiapparaten för funktion?
+>6. Vilka organeller använder sig av exocytos och endocytos?
+>7. Vad är lysosomens funktion?
+>8. Vad är sambandet mellan lysosomer och apoptos?
+>9. Vad skulle hända om en cell saknade peroxisomer?
 
 ---
 
@@ -96,4 +106,12 @@ tags:
 >- Vakuol
 >- Tonoplast
 
-
+>[!FAQ] Instuderingsfrågor
+>
+> 1. Vad har cytoskelettet för funktion?
+> 2. Beskriv två funktioner hos mikrotubuli
+> 3. Vad är den strukturella skillnaden mellan mikrotubuli, mikrofilament och intermediära filament?
+> 4. Vad skiljer cilier och flageller?
+> 5. Vilka organismer (främst) har vakuoler i sina celler och vad är deras funktion?
+> 6. Vilka biomolekyler bygger upp cytoskelettet?
+>  

@@ -47,18 +47,33 @@ tags:
 
 ## Algebra
 
-| vecka | dag     | avsnitt                        | sida  | KM.se |     |
-| ----- | ------- | ------------------------------ | ----- | ----- | --- |
-| 41    | måndag  | Repetition Algebra             | 51-52 | -     |     |
-| 41    | onsdag  | Rättning Prov: Ekvationssystem | -     | -     |     |
-| 41    | torsdag | [[Konjugatregeln]]             | 55-56 | -     |     |
-| 42    | måndag  | Kvadrerings- och konjugatregel | 55-56 | -     |     |
-| 42    | onsdag  | Kvadrerings- och konjugatregel | 55-56 |       |     |
-| 42    | torsdag | Faktorisering                  | 58-59 |       |     |
-| 43    | måndag  | Inlämningsuppgift              | -     |       |     |
-| 43    | onsdag  | -                              |       |       |     |
-| 43    | torsdag | Inlämningsuppgift              | -     |       |     |
+| vecka | dag         | avsnitt                        | sida  | KM.se |
+| ----- | ----------- | ------------------------------ | ----- | ----- |
+| 41    | måndag      | Repetition Algebra             | 51-52 | -     |
+| 41    | onsdag      | Rättning Prov: Ekvationssystem | -     | -     |
+| 41    | torsdag     | [[Konjugatregeln]]             | 55-56 | -     |
+| 42    | måndag      | Kvadrerings- och konjugatregel | 55-56 | -     |
+| 42    | onsdag      | Kvadrerings- och konjugatregel | 55-56 |       |
+| 42    | torsdag     | Faktorisering                  | 58-59 |       |
+| 43    | måndag      | Inlämningsuppgift              | -     |       |
+| 43    | onsdag      | -                              |       |       |
+| 43    | torsdag     | Inlämningsuppgift              | -     |       |
+| 44    | **HÖSTLOV** | **HÖSTLOV**                    |       |       |
+| 45    | måndag      | Repetition/Inlämningsuppgift   | -     |       |
 
 ---
 
 ## Andragradsekvationer
+
+| vecka | dag     | avsnitt                                    | sida  | Rek. uppgifter                                       | KM.se |
+| ----- | ------- | ------------------------------------------ | ----- | ---------------------------------------------------- | ----- |
+| 45    | onsdag  | Enkla andragradsekvationer                 | 60-62 | 2201, 2202, 2203, 2207, 2209, 2210, 2212, 2214, 2215 |       |
+| 45    | torsdag | Andragradsekvationer och faktorisering     | 63-65 |                                                      |       |
+| 46    | måndag  | Kvadratkomplettering                       | 66-69 |                                                      |       |
+| 46    | onsdag  | pq-formeln                                 | 70-72 |                                                      |       |
+| 46    | torsdag | Räknepass                                  |       |                                                      |       |
+| 47    | måndag  | Mer om pq-formeln                          | 75-76 |                                                      |       |
+| 47    | onsdag  | Problemlösning                             | 77-80 |                                                      |       |
+| 47    | torsdag | Repetition/Övningsprov                     |       |                                                      |       |
+| 48    | måndag  | Repetition/Övningsprov                     |       |                                                      |       |
+| 48    | onsdag  | **Prov: Algebra och andragradsekvationer** |       |                                                      |       |
