@@ -43,20 +43,28 @@ Alla frågor har inte självklara svar utan är utformade så du behöver funder
 
 
 > 1. Vilka strukturella egenskaper hos biomolekyler gör att de kan fylla så många olika funktioner i cellen?
+>    
 > 
 > 2. Hur skulle en cell påverkas om det skulle finnas för mycket eller för lite av olika biomolekyler? Ge exempel och förklara!
+>    
 > 
 > 3. Hur skulle vår förståelse påverkas om vi hittade livsformer som inte var uppbyggda av celler?
+>    
 > 
 > 4. Cellmembranet är både en skyddande barriär, men tillåter också transport av ämnen. Hur är det möjligt utifrån dess struktur?
+>    
 > 
 > 5. Hur skulle cellen påverkas om olika delar av endomembransystemet slutar fungera? Ge exempel och förklara!
+>    
 > 
 > 6. Vilka biomolekyler bygger upp cytoskelettet och vad har det för funktion?
+>    
 > 
 > 7. På vilka sätt är cellens strukturer och biomolekyler beroende av varandra för att upprätthålla cellens integritet och funktion över tid?
+>    
 > 
 > 8. Mitokondrier är en organell vi inte diskuterat i detalj. En mitokondrie har både ett membran och sitt egna DNA. Vad hjälper det dig dra för slutsatser om mitokondriens ursprung?
+>    
 > 
 > 9. Kolestrol är ett steroidhormon som också är viktigt för cellmembranens funktion. Utifrån dina kunskaper fundera över följande:
 > 
@@ -64,7 +72,9 @@ Alla frågor har inte självklara svar utan är utformade så du behöver funder
 > 
 >   - Hur transporteras kolestrol i blodet?
 > 
+> 
 > 10. Hur möjliggör endomembransystemets och cytoskelettets strukturer effektiv transport och kommunikation inom och utanför cellen?
+> 
 > 
 > 11. Vad kan olika strukturella nivåer av proteiner (primär, sekundär, tertiär, och kvartenär) och kolhydrater (mono-, di- och polysackarider) avslöja om deras specifika funktioner i cellen?
 
