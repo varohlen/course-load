@@ -59,6 +59,7 @@ tags:
 | 43    | måndag  | Förenkla uttryck               | 81-85 | 3201, 3203, 3206, 3208,3209, 3210,(3212), 3218, 3220, 3221, 3222, 32225, (3226, 3229) |
 | 43    | onsdag  | Uttryck av andra graden        | 86-88 | 3232, 3233, 3235, 3236, 3241, (3247, 3249)                                            |
 | 43    | torsdag | Multiplicera parenteser        | 89-92 |                                                                                       |
+
 **HÖSTLOV**
 
 | vecka | dag     | avsnitt                       | sida    | rek. uppgifter                             |
@@ -66,8 +67,8 @@ tags:
 | 45    | måndag  | Repetition                    | 86-92   | Se ovan                                    |
 | 45    | onsdag  | Faktorisera uttryck           | 93-96   | 3272, 3274, 3275, 3276, 3279, (3281, 3283) |
 | 45    | torsdag | Ekvationer                    | 100-102 | 3315, 3317, 3319, 3320, 3321, 3322, (3324) |
-| 46    | måndag  | Mer om ekvationer             | 103-105 |                                            |
-| 46    | onsdag  | Räknepass                     | 93-105  |                                            |
+| 46    | måndag  | Mer om ekvationer             | 103-105 | 3335, 3337, 3338, 3339, 3340, 3342, 3345   |
+| 46    | onsdag  | Räknepass                     | 93-105  | -                                          |
 | 46    | torsdag | Problemlösning och ekvationer | 106-109 | 3350, 3351, 3354, 3355, 3356 (3359, 3361)  |
 | 47    | måndag  | Att lösa ut formler           |         |                                            |
 | 47    | onsdag  | Övningsprov/Repetition        |         |                                            |

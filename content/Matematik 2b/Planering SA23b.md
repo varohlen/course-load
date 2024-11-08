@@ -68,7 +68,7 @@ tags:
 | vecka | dag     | avsnitt                                    | sida  | Rek. uppgifter                                       | KM.se |
 | ----- | ------- | ------------------------------------------ | ----- | ---------------------------------------------------- | ----- |
 | 45    | onsdag  | Enkla andragradsekvationer                 | 60-62 | 2201, 2202, 2203, 2207, 2209, 2210, 2212, 2214, 2215 |       |
-| 45    | torsdag | Andragradsekvationer och faktorisering     | 63-65 |                                                      |       |
+| 45    | torsdag | Nollproduktsmetoden                        | 63-65 | 2221, 2222, 2224, 2225, 2227, 2228                   |       |
 | 46    | måndag  | Kvadratkomplettering                       | 66-69 |                                                      |       |
 | 46    | onsdag  | pq-formeln                                 | 70-72 |                                                      |       |
 | 46    | torsdag | Räknepass                                  |       |                                                      |       |
