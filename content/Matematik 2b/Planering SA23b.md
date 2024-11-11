@@ -69,7 +69,7 @@ tags:
 | ----- | ------- | ------------------------------------------ | ----- | ---------------------------------------------------- | ----- |
 | 45    | onsdag  | Enkla andragradsekvationer                 | 60-62 | 2201, 2202, 2203, 2207, 2209, 2210, 2212, 2214, 2215 |       |
 | 45    | torsdag | Nollproduktsmetoden                        | 63-65 | 2221, 2222, 2224, 2225, 2227, 2228                   |       |
-| 46    | måndag  | Kvadratkomplettering                       | 66-69 |                                                      |       |
+| 46    | måndag  | Kvadratkomplettering                       | 66-69 | 2302, 2303, 2305, 2307                               |       |
 | 46    | onsdag  | pq-formeln                                 | 70-72 |                                                      |       |
 | 46    | torsdag | Räknepass                                  |       |                                                      |       |
 | 47    | måndag  | Mer om pq-formeln                          | 75-76 |                                                      |       |
