@@ -42,5 +42,5 @@ Se Skola24 eller planering nedan för att hålla koll.
 | 44    | **HÖSTLOV** | **HÖSTLOV**                                                       |                   |
 | 45    | måndag      | Ekologi: Gemensam läsning<br>Diskussion: Olika typer av ekosystem | 64-75<br>77-93    |
 | 45    | fredag      | Diskussion: Olika typer av ekosystem                              | 77-93             |
-| 46    | måndag      | Prov eller inläsning?                                             |                   |
-| 47    | måndag      | Prov eller nytt område?                                           |                   |
+| 46    | måndag      | [[3.1 - Begrepp inom ekologin]]                                   |                   |
+| 47    | måndag      | **PROV EKOLOGI**                                                  |                   |
