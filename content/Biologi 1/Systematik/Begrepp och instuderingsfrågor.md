@@ -147,4 +147,69 @@ För ge möjlighet att studera sammanfattningar finns här begrepplistor till de
 
 ---
 
-## [[2.5 - Djurriket (Eukaryoter)]]
+## [[2.5 - Djurriket (Eukaryoter)]] och [[2.6 - Ryggsträngsdjur (Animalia)]]
+
+>[!FAQ] Instuderingsfrågor
+># Instuderingsfrågor: Djurriket
+> 1. Ge ett exempel på en/ett
+>     a) nässeldjur 
+>     b) ringmask 
+>     c) blötdjur
+>     d) leddjur
+>     e) tagghuding
+>     f) ryggsträngsdjur
+>     
+>     
+> 2. Vad kännetecknar?
+>     a) svampdjur
+>     b) nässeldjur
+>     c) plattmaskar
+>     d) ringmaskar
+>     e) blötdjur
+>     f) leddjur
+>     g) tagghudingar
+>     
+> 3. Vilken av följande djurgrupper är äldst, evolutionärt sett: öronmaneter, insekter eller ödlor?
+> 
+> 4. Vad kännetecknar
+>     a) ryggradsdjur
+>     b) broskfiskar 
+>     c) benfiskar
+>     d) amfibier
+>     e) reptiler
+>     f) fåglar
+>     g) däggdjur
+>     
+> 5. Sök information om pigghaj, pirål och åkergroda, och avgör vilka är närmast släkt med varandra. 
+> 
+> 6. Sök information om domherre, gavial och vitörad opossum, och avgör vilka är närmast släkt med varandra.
+> 
+> 7. Vad skiljer grupperna inom däggdjuren åt? (Kloakdjur, pungdjur oh moderkaksdjur)
+
+
+---
+
+## [[2.7 - Svampriket (Eukaryota)]] och [[2.8 - Växtriket (Eukaryota)]] och [[2.9 - "Protister" (Eukaryota)]]
+
+> [!FAQ] Instuderingsfrågor
+> 
+> 1. Vad kännetecknar alger?
+> 2. Vad innebär fylogenetik?
+> 
+> 3. Vad kännetecknar svampar?
+> 4. Vad kännetecknar växter?
+> 5. Varför är "protister" inte ett korrekt systematiskt begrepp?
+> 6. Vilka tre grupper kan man dela in växterna i?
+> 7. Vad skiljer enhjärtbladiga och tvåhjärtbladiga gömfröiga växter åt?
+> 8. Ge exempel på en
+>     a) Nakenfröig växt
+>     b) Enhjärtbladig växt
+>     c) Tvåhjärtbladig växt
+> 
+> 8. Av björnmossa, örnbräken och vete, vilka är närmast släkt med varandra?
+> 
+> 9. Vilka är bäst och sämst anpassade till landliv av fröväxter, mossor och ormbunksväxter? Varför?
+> 
+> 10. Vilka är de tre domänerna inom systematiken?
+> 11. Vilka olika sätt lever en svamp på?
+> 12. Är systematiken korrekt fylogenetiskt presenterad, varför/varför inte?

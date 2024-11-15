@@ -1,6 +1,9 @@
 ---
 tags:
   - Bio1
+title: Begrepp och instuderingsfrågor
+description: Frågor och begrepp på avsnittet Liv och celler
+category: Liv och celler
 ---
 För ge möjlighet att studera sammanfattningar finns här begrepplistor till de olika avsnitten samt instuderingsfrågor.
 
