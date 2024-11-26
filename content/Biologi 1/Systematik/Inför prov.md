@@ -2,7 +2,13 @@
 tags:
   - Bio1
 ---
-	
+Ni får ha med ert ett papper med anteckningar (A4)
+
+Provet behandlar samtliga avsnitt under rubriken "Systematik".
+Ni hittar frågor och begrepp till respektive avsnitt i [[Biologi 1/Systematik/Begrepp och instuderingsfrågor|Begrepp och instuderingsfrågor]].
+
+Alternativt kan ni också läsa Kapitel 10 i boken.
+
 # Instuderingsfrågor - Systematik
 
 1. Rangordna följande begrepp *hierarkiskt*
