@@ -31,3 +31,8 @@ Utgångspunkten är att vi är i C1, vi har dock tillgång till ES3 genom att by
 | 41    | tisdag | [[2.2 - Kemiska föreningar]]<br>[[Biologi 1/Liv och celler/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] |
 | 42    | tisdag | [[2.2 - Kemiska föreningar]]<br>[[Biologi 1/Liv och celler/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] |
 | 43    | tisdag | Prov: Grundläggande kemi                                                                                                    |
+
+---
+
+## 3 - Mer om kemi
+

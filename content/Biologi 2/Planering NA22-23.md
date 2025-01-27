@@ -51,5 +51,18 @@ tags:
 | 45    | tisdag      | [[Inför prov - Biomolekyler och cellens organeller]]                                                   |       |
 | 45    | onsdag      | [[Inför prov - Biomolekyler och cellens organeller]]                                                   |       |
 | 46    | tisdag      | **Prov: Biomolekyler och cellens organeller**                                                          |       |
-|       |             |                                                                                                        |       |
+| 46    | onsdag      | Genomgång Prov                                                                                         |       |
 
+---
+
+## 4 - Mer om cellen
+
+| vecka | dag    | innehåll                           | sidor |
+| ----- | ------ | ---------------------------------- | ----- |
+| 47    | tisdag | [[4.1 - Transport över membran]]   | 74-78 |
+| 47    | onsdag | Labaration: Osmos                  | -     |
+| 48    | tisdag | [[4.2 - Ämnesomsättning i cellen]] | 42-57 |
+| 48    | onsdag | [[4.2u - Uppgift Posters]]         | 42-57 |
+| 49    | tisdag | [[4.2u - Uppgift Posters]]         | 42-57 |
+| 49    | onsdag | [[4.2u - Uppgift Posters]]         | 42-57 |
+| 50    | tisdag | [[4.2u - Uppgift Posters]]         | 42-57 |

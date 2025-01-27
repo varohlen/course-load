@@ -31,10 +31,22 @@ tags:
 
 ## 2 - Systematik
 
-| vecka | datum | dag    | innehåll                                                                                | sidor |
-| ----- | ----- | ------ | --------------------------------------------------------------------------------------- | ----- |
-| 39    | 27/9  | fredag | [[2.0u - Släktträd]]                                                                    | -     |
-| 40    | 1/10  | tisdag | [[2.0u - Släktträd]]                                                                    | -     |
-| 40    | 4/10  | fredag | [[2.1 - Systematik och taxonomi]]                                                       | 90-92 |
-| 41    | 8/10  | tisdag | [[2.2 - Kladistik]]                                                                     | -     |
-| 41    | 11/10 | fredag | [[Biologi 1/Systematik/Begrepp och instuderingsfrågor\|Begrepp och instuderingsfrågor]] | -     |
+| vecka | dag         | innehåll                                                            | sidor |
+| ----- | ----------- | ------------------------------------------------------------------- | ----- |
+| 39    | fredag      | [[2.0u - Släktträd]]                                                | -     |
+| 40    | tisdag      | [[2.0u - Släktträd]]                                                | -     |
+| 40    | fredag      | [[2.1 - Systematik och taxonomi]]                                   | 90-92 |
+| 41    | tisdag      | [[2.2 - Kladistik]]                                                 | -     |
+| 41    | fredag      | [[2.3 - Bakterier och arkéer]]                                      | -     |
+| 42    | fredag      | [[2.4 - Eukaryoter - en översikt]]                                  |       |
+| 43    | fredag      | [[2.5 - Djurriket (Eukaryoter)]]                                    |       |
+| 44    | **HÖSTLOV** | **HÖSTLOV**                                                         |       |
+| 45    | tisdag      | [[2.6 - Ryggsträngsdjur (Animalia)]]                                |       |
+| 45    | fredag      | [[2.7 - Svampriket (Eukaryota)]]<br>[[2.8 - Växtriket (Eukaryota)]] |       |
+| 47    | fredag      | [[2.9 - "Protister" (Eukaryota)]]<br>[[Inför prov]]                 |       |
+| 48    | tisdag      | [[Inför prov]]                                                      |       |
+| 48    | fredag      | **Prov: Systematik**                                                |       |
+| 49    | tisdag      | Genomgång Prov                                                      |       |
+
+---
+

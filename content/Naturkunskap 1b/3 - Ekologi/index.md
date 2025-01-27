@@ -1,5 +1,5 @@
 ---
-title: 2 - Hållbar utveckling
+title: 2 - Ekologi
 description: Här hittar du material för kursen Naturkunskap 1a1
 tags:
   - Nak1b
